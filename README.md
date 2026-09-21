@@ -163,23 +163,49 @@ a review of risk helped us understand the different deposit .
 the report about the nurse explains the health in detail .
 the consumer compared the offering after checking the price .
 ```
-**Extension, step 0 / 1,500 / 3,000** — by 1,500 the negation template is already fully formed:
+**Extension, step 0** — word salad again; note the two stray `<BOS>` tokens, which the
+notebook's sampler (unlike `chat.py`) does not mask:
 ```
-(0)    of today quality not student deep goat yellow dog mentioned health then mortgage maple . new instead lesson investment mango juice up credit honey did opposite full detail if now into sweet
-(1500) the window is not open , the window is closed .
-(1500) the ball is not hot . it is cold . the ball is cold .
-(3000) the window is not fixed . it is broken . the window is broken .
-(3000) the coat is not full . it is empty . the coat is empty .
+of today quality not student deep goat yellow dog mentioned health then mortgage maple . new instead lesson investment mango juice up credit honey did opposite full detail if now into sweet
+mentioned important eggs helped jack wide train room sad pear at nurse young water program closed hill low <BOS> cup bright purchase compared physician steel learned returned <BOS> , cotton she if
+tea kid unlocked dan red fixed chick white loan website near cheese then path took van delivery treatment red kitchen peach every ben silk discussed deep about physician window group chick bond
+cold smooth cold drink grape carrot slow soup group duckling up , bought clean every us sour item are off small linen wall bought the are coffee small ivy sparrow he sad
+```
+**Extension, step 1,500** — the negation template is already fully formed:
+```
+the window is not open , the window is closed .
+our store has a question about the different buyer and service .
+the ball is not hot . it is cold . the ball is cold .
+we learned about the important program during a discussion of update .
+```
+**Extension, step 3,000**:
+```
+the window is not fixed . it is broken . the window is broken .
+the report about the mortgage explains the return in detail .
+the coat is not full . it is empty . the coat is empty .
+we learned about the local banana during a discussion of taste .
 ```
 Visible change: from step 0 to 1,500 the output goes from unrelated words to whole template
-sentences. Visible *lack* of change: between 1,500 and 3,000 the starter samples barely move,
-matching the flat loss curve.
+sentences. Visible *lack* of change: between 1,500 and 3,000 the starter samples barely move
+(two of four are identical), matching the flat loss curve. None of the 24 saved samples is
+empty; the only garbled ones are the step-0 samples.
 
 ## How the model learns — traced with my actual numbers
 
 The five explanations below are in my own words (written during the session, lightly edited);
 the numbers come from [tokenization.json](experiments/starter/run/tokenization.json) and
-[inspection.json](experiments/starter/run/inspection.json) of the starter run.
+[inspection.json](experiments/starter/run/inspection.json) of the starter run (the extension
+run's equivalents: [tokenization.json](experiments/extension/run/tokenization.json) ·
+[inspection.json](experiments/extension/run/inspection.json)).
+
+**One word, traced end to end.** The starter training sentence
+`the customer ordered the product after checking the price .` is tokenized into 10 word/punctuation
+tokens and encoded as `[1, 118, 28, 77, 118, 87, 6, 21, 118, 86, 3, 2]` — `<BOS>`=1, `the`=118,
+`customer`=**28**, `ordered`=77, … `.`=3, `<EOS>`=2. ID 28 selects row 28 of the 136 × 64 embedding
+table. That row is `customer`'s 64-number vector: before training it starts
+`[-0.0576, -0.0048, 0.0426, 0.0193, 0.0156, -0.0288, …]`; after 3,000 updates it starts
+`[0.0366, -0.0182, 0.1330, 0.1059, 0.0630, 0.0189, …]` (all 64 values, before and after, are in
+inspection.json). The ID never changed; every one of the 64 numbers did.
 
 **Corpus.** The corpus is the pile of example sentences the model reads. Eight templates × six
 domains produce sentences such as `the team discussed the surgeon and the patient at the hospital .`
@@ -225,7 +251,9 @@ first update for `customer`, coordinate 0:
 
 The gradient is positive, so the value moved *down* (by 0.00001 — AdamW's first step is
 roughly `lr × sign(gradient)`). After 3,000 such updates across all 111,872 parameters this
-coordinate ends at +0.0366 and the loss falls from 4.93 to 0.68.
+coordinate ends at +0.0366 and the loss falls from 4.93 to 0.68. The extension run shows the
+opposite sign: `customer` is ID 87 there, its coordinate 0 started at −0.0327425 with gradient
+**−0.00223**, and the update moved it *up* to −0.0327325 — same rule, opposite direction.
 
 **Train-vs-validation gap.** *"The small gap shows that the model did learn a pattern and did not
 simply memorize specific sentences. It does not tell you that the model learned alternate
@@ -241,9 +269,11 @@ earlier positions. Whether it *does* is what the negation evals test — and thi
 mostly failed that.
 
 **Probabilities → generated words, and temperature.** Generation samples one word from the
-probability distribution, appends it, and repeats. Temperature divides the logits before the
-softmax: below 1 sharpens the distribution toward the top word, above 1 flattens it. No weights
-change. [starter temperature_comparison.json](experiments/starter/run/temperature_comparison.json)
+probability distribution, appends it, and repeats until `<EOS>` or 32 tokens. Temperature divides
+the logits before the softmax: below 1 sharpens the distribution toward the top word, above 1
+flattens it. No weights change. The comparison uses the same `<BOS>` start token and the same
+sampling seed (2026) at each temperature, on the final trained model.
+[starter temperature_comparison.json](experiments/starter/run/temperature_comparison.json)
 shows 0.3, 0.8 and 1.2 producing almost the same four sentences: the trained distribution is so
 peaked (place names at ~0.98) that flattening by 1.2 rarely changes the sampled word. In the
 [extension run](experiments/extension/run/temperature_comparison.json) 1.2 did produce one broken
@@ -298,6 +328,20 @@ Untrained scores are chance: a random model picks the right one of four ~25% of 
 
 ★ = the categories I extended. The other five extension categories stayed out-of-vocabulary in
 both experiments because I taught nothing for them; those zeros are by construction.
+
+### Four-choice score vs. free continuation vs. coverage — three different measurements
+
+The runner records all three for every case, and they can disagree:
+
+| Case | Four-choice score | Free continuation (temp 0.8) | What the disagreement shows |
+|---|---|---|---|
+| starter `lang_07` "the report about the surgeon explains the" | 1 — `patient` ranked above traffic/delivery/fruit | `treatment in detail .` | The score only ranks the four given words; the model's own favourite (`treatment`, also a health-domain word) was not among them. Passing the score ≠ producing the answer. |
+| extension `lang_30` "the opposite of noisy is" | 1 — `quiet` at 0.762 | `soft .` | Sampling at temperature 0.8 does not always pick the top word; the score is deterministic, the continuation is not. |
+| extension `lang_47` "…a kitten grows into a" | 0 — `duck` 0.249 | `goat .` | Both measurements fail, differently: the model spreads probability over several adult animals from the "grows into" frame. |
+| starter `lang_43` "water freezes into" | unscorable (`water`, `freezes`, `into` unknown) | `the new program focused on data and security .` | Coverage is a property of the vocabulary, not the weights: with every prompt word mapped to `<UNK>`, the model just emits a frequent template. No amount of training on the starter corpus changes this. |
+
+Every case's continuation is in the linked `eval_results.json` files; the tables below quote
+the ones that matter for the failures.
 
 ### Why I chose these three categories, and what I added
 
@@ -377,12 +421,21 @@ versus 3 by chance untrained — that difference is the learned pattern. Negatio
 the vocabulary is present, the template is reproduced perfectly in free samples, yet 2 of 3
 scored cases fail because the pattern requires copying from context, not completing a frame.
 
-**Rerunning the evals on the saved model** reproduces the notebook exactly (same 27/48, same
-predictions and continuations):
+**Rerunning the evals on the saved model.** The trained models are committed in this repo —
+[experiments/starter/run/model.pt](experiments/starter/run/model.pt) and
+[experiments/extension/run/model.pt](experiments/extension/run/model.pt) (each also inside its
+`results.zip`). Each `model.pt` holds the full network state, the model config and the saved
+vocabulary; `run_evals.load_model()` rebuilds the nanoGPT from it with no download, API key or
+pretrained weights. Dependencies are just `requirements.txt` (torch, numpy). The command below
+reproduced the notebook's final result exactly — same 27/48, same predicted choices, same free
+continuations — when I tested it:
 
 ```bash
 .venv/bin/python run_evals.py --model experiments/extension/run/model.pt --output results/rerun --stage rerun
 ```
+
+(Use `experiments/starter/run/model.pt` to reproduce 20/48. The runner refuses a non-empty
+output directory so earlier results are never overwritten.)
 
 ## Chat interface
 
@@ -408,6 +461,17 @@ Four real interactions, typed by me ([transcript](experiments/extension/chat_tra
 | 2 | `the opposite of tall is` | `short .` | Correct — a pair it saw in training, in a taught frame. |
 | 3 | `my favorite umbrella` | `the linen are both fabrics .` (unknown words: favorite, my, umbrella) | **Limitation.** All three words are `<UNK>`, so the prompt carried no information and it produced an unrelated sentence. |
 | 4 | `the cup is not red . it is white . the cup is` | `blue .` | **Failure**, consistent with the evals: `cup` and every colour are in the vocabulary, the frame is taught with hundreds of examples, and it still picked a colour it was not told. |
+
+The notebook's own chat cell (section 10) also ran once during Run All, with the same model in
+memory: `the customer` → `ordered the item after checking the price .`, saved in the run folder's
+[chat_transcript.json](experiments/extension/run/chat_transcript.json). The interface prints its
+own labels: "Tiny language model: short continuations, not a general assistant", the 48-token
+context, that each prompt starts fresh, and any unknown words (visible in turn 3 above).
+
+**Observed chat limitation:** the model has no notion of a question or a request. Every prompt
+is treated as the beginning of a sentence to continue, and any word outside the 386-word
+vocabulary is silently replaced by `<UNK>` before the model sees it — so a prompt made only of
+unknown words (turn 3) carries no information at all, and the reply is effectively unconditional.
 
 ## One limitation and one next experiment
 
