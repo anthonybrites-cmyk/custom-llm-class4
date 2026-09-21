@@ -1,0 +1,42 @@
+{
+  "model": "experiments/extension/run/model.pt",
+  "model_sha256": "8d9edf2618e37d4724b6ac5af3d39cc39a3c97804c32c941e3e83541609c335d",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the doctor",
+      "seed": 2026,
+      "response": "and the sharp are both vehicles .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of tall is",
+      "seed": 2027,
+      "response": "short .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "my favorite umbrella",
+      "seed": 2028,
+      "response": "the linen are both fabrics .",
+      "unknown_prompt_words": [
+        "favorite",
+        "my",
+        "umbrella"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the cup is not red . it is white . the cup is",
+      "seed": 2029,
+      "response": "blue .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}

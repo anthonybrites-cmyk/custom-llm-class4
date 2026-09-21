@@ -1,4 +1,5 @@
 torch>=2.2,<3
 pypdf>=5,<7
+numpy>=1.26  # run_evals.model_hash() calls tensor.numpy(); Colab preinstalls it, a local venv may not
 # For local notebook use only; Colab includes notebook tooling.
 jupyter>=1.0

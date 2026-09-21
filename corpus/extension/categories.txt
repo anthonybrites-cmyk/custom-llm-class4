@@ -1,0 +1,887 @@
+a banana is a fruit .
+a banana is a fruit .a bear is an animal .
+a banana is a fruit .a birch is a tree .
+a banana is a fruit .a cod is a fish .
+a banana is a fruit .a herring is a fish .
+a banana is a fruit .a linen is a fabric .
+a banana is a fruit .a parrot is a bird .
+a banana is a fruit .a sparrow is a bird .
+a banana is a fruit .a spinach is a vegetable .
+a banana is a fruit .a train is a vehicle .
+a bear is an animal .
+a bear is an animal .a carrot is a vegetable .
+a bear is an animal .a cat is an animal .
+a bear is an animal .a chisel is a tool .
+a bear is an animal .a pear is a fruit .
+a bear is an animal .a saw is a tool .
+a bear is an animal .a silk is a fabric .
+a bear is an animal .a spinach is a vegetable .
+a bear is an animal .a tuna is a fish .
+a bear is an animal .an owl is a bird .
+a bear starts life as a cub .
+a bicycle is a vehicle .
+a bicycle is a vehicle .a bear is an animal .
+a bicycle is a vehicle .a broccoli is a vegetable .
+a bicycle is a vehicle .a chisel is a tool .
+a bicycle is a vehicle .a maple is a tree .
+a birch is a tree .
+a birch is a tree .a carrot is a vegetable .
+a birch is a tree .a cat is an animal .
+a birch is a tree .a gold is a metal .
+a birch is a tree .a sparrow is a bird .
+a birch is a tree .a trout is a fish .
+a broccoli is a vegetable .
+a broccoli is a vegetable .a bear is an animal .
+a broccoli is a vegetable .a cabbage is a vegetable .
+a broccoli is a vegetable .a drill is a tool .
+a broccoli is a vegetable .a linen is a fabric .
+a broccoli is a vegetable .a steel is a metal .
+a broccoli is a vegetable .an eagle is a bird .
+a bus is a vehicle .
+a bus is a vehicle .a silver is a metal .
+a cabbage is a vegetable .
+a cabbage is a vegetable .a bear is an animal .
+a cabbage is a vegetable .a herring is a fish .
+a cabbage is a vegetable .a van is a vehicle .
+a cabbage is a vegetable .an iron is a metal .
+a cabbage is a vegetable .an oak is a tree .
+a cabbage is a vegetable .an onion is a vegetable .
+a calf grows into a cow .
+a calf grows into a cow .a chick grows into a hen .
+a calf grows into a cow .a duckling grows into a duck .
+a calf grows into a cow .a foal grows into a horse .
+a calf grows into a cow .a kid grows into a goat .
+a calf grows into a cow .a lamb grows into a sheep .
+a calf grows into a cow .a puppy grows into a dog .
+a calf is a young cow .
+a car is a vehicle .
+a car is a vehicle .a cat is an animal .
+a car is a vehicle .a cedar is a tree .
+a car is a vehicle .a chisel is a tool .
+a car is a vehicle .a crow is a bird .
+a car is a vehicle .a linen is a fabric .
+a car is a vehicle .a spinach is a vegetable .
+a car is a vehicle .a train is a vehicle .
+a car is a vehicle .a van is a vehicle .
+a carrot is a vegetable .
+a carrot is a vegetable .a parrot is a bird .
+a cat is an animal .
+a cat is an animal .a bicycle is a vehicle .
+a cat is an animal .a drill is a tool .
+a cat is an animal .a robin is a bird .
+a cat is an animal .a sheep is an animal .
+a cat is an animal .a train is a vehicle .
+a cat is an animal .an onion is a vegetable .
+a cat starts life as a kitten .
+a cedar is a tree .
+a cedar is a tree .a carrot is a vegetable .
+a cherry is a fruit .
+a cherry is a fruit .a cedar is a tree .
+a cherry is a fruit .a chisel is a tool .
+a cherry is a fruit .a crow is a bird .
+a cherry is a fruit .a gold is a metal .
+a cherry is a fruit .a horse is an animal .
+a cherry is a fruit .a linen is a fabric .
+a cherry is a fruit .a silk is a fabric .
+a cherry is a fruit .a tuna is a fish .
+a chick grows into a hen .
+a chick grows into a hen .a calf grows into a cow .
+a chick grows into a hen .a cub grows into a bear .
+a chick grows into a hen .a duckling grows into a duck .
+a chick grows into a hen .a foal grows into a horse .
+a chick grows into a hen .a piglet grows into a pig .
+a chick grows into a hen .a puppy grows into a dog .
+a chick is a young hen .
+a chisel is a tool .
+a chisel is a tool .a bus is a vehicle .
+a chisel is a tool .a cabbage is a vegetable .
+a chisel is a tool .a copper is a metal .
+a chisel is a tool .a denim is a fabric .
+a chisel is a tool .a gold is a metal .
+a chisel is a tool .a horse is an animal .
+a chisel is a tool .a pig is an animal .
+a chisel is a tool .a sheep is an animal .
+a chisel is a tool .a trout is a fish .
+a chisel is a tool .an iron is a metal .
+a cod is a fish .
+a cod is a fish .a birch is a tree .
+a cod is a fish .a broccoli is a vegetable .
+a cod is a fish .a chisel is a tool .
+a cod is a fish .a cotton is a fabric .
+a cod is a fish .a denim is a fabric .
+a cod is a fish .a potato is a vegetable .
+a cod is a fish .a steel is a metal .
+a copper is a metal .
+a copper is a metal .a carrot is a vegetable .
+a copper is a metal .a cod is a fish .
+a copper is a metal .a dog is an animal .
+a copper is a metal .a gold is a metal .
+a copper is a metal .a tuna is a fish .
+a copper is a metal .an onion is a vegetable .
+a copper is a metal .an orange is a fruit .
+a cotton is a fabric .
+a cotton is a fabric .a broccoli is a vegetable .
+a cotton is a fabric .a horse is an animal .
+a cotton is a fabric .a robin is a bird .
+a cotton is a fabric .a silk is a fabric .
+a cotton is a fabric .a silver is a metal .
+a cotton is a fabric .an oak is a tree .
+a cow is an animal .
+a cow is an animal .a cabbage is a vegetable .
+a cow is an animal .a chisel is a tool .
+a cow is an animal .a hammer is a tool .
+a cow is an animal .a herring is a fish .
+a cow is an animal .a silk is a fabric .
+a cow is an animal .a train is a vehicle .
+a cow is an animal .an onion is a vegetable .
+a cow is an animal .an orange is a fruit .
+a cow starts life as a calf .
+a crow is a bird .
+a crow is a bird .a bicycle is a vehicle .
+a crow is a bird .a cedar is a tree .
+a crow is a bird .a hammer is a tool .
+a crow is a bird .a herring is a fish .
+a crow is a bird .a mango is a fruit .
+a crow is a bird .a maple is a tree .
+a crow is a bird .a potato is a vegetable .
+a crow is a bird .a taxi is a vehicle .
+a crow is a bird .a wool is a fabric .
+a crow is a bird .an onion is a vegetable .
+a cub grows into a bear .
+a cub grows into a bear .a calf grows into a cow .
+a cub is a young bear .
+a denim is a fabric .
+a denim is a fabric .a duck is a bird .
+a denim is a fabric .a shark is a fish .
+a denim is a fabric .an eagle is a bird .
+a dog is an animal .
+a dog is an animal .a cod is a fish .
+a dog is an animal .a hen is a bird .
+a dog starts life as a puppy .
+a drill is a tool .
+a drill is a tool .a bus is a vehicle .
+a drill is a tool .a cedar is a tree .
+a drill is a tool .a horse is an animal .
+a duck is a bird .
+a duck is a bird .a car is a vehicle .
+a duck is a bird .a carrot is a vegetable .
+a duck is a bird .a chisel is a tool .
+a duck is a bird .a gold is a metal .
+a duck is a bird .a mango is a fruit .
+a duck is a bird .a parrot is a bird .
+a duck is a bird .an owl is a bird .
+a duck starts life as a duckling .
+a duckling grows into a duck .
+a duckling grows into a duck .a calf grows into a cow .
+a duckling grows into a duck .a chick grows into a hen .
+a duckling grows into a duck .a cub grows into a bear .
+a duckling grows into a duck .a foal grows into a horse .
+a duckling grows into a duck .a kid grows into a goat .
+a duckling grows into a duck .a lamb grows into a sheep .
+a duckling grows into a duck .a piglet grows into a pig .
+a duckling grows into a duck .a puppy grows into a dog .
+a duckling is a young duck .
+a foal grows into a horse .
+a foal grows into a horse .a calf grows into a cow .
+a foal grows into a horse .a chick grows into a hen .
+a foal grows into a horse .a cub grows into a bear .
+a foal grows into a horse .a duckling grows into a duck .
+a foal grows into a horse .a kid grows into a goat .
+a foal grows into a horse .a lamb grows into a sheep .
+a foal grows into a horse .a piglet grows into a pig .
+a foal grows into a horse .a puppy grows into a dog .
+a foal is a young horse .
+a goat is an animal .
+a goat is an animal .a car is a vehicle .
+a goat is an animal .a cat is an animal .
+a goat is an animal .a chisel is a tool .
+a goat is an animal .a peach is a fruit .
+a goat is an animal .a potato is a vegetable .
+a goat is an animal .a sheep is an animal .
+a goat is an animal .a silver is a metal .
+a goat is an animal .a wool is a fabric .
+a goat starts life as a kid .
+a gold is a metal .
+a gold is a metal .a birch is a tree .
+a gold is a metal .a broccoli is a vegetable .
+a gold is a metal .a hen is a bird .
+a gold is a metal .a horse is an animal .
+a gold is a metal .a mango is a fruit .
+a grape is a fruit .
+a grape is a fruit .a birch is a tree .
+a grape is a fruit .a cod is a fish .
+a grape is a fruit .a cow is an animal .
+a grape is a fruit .a hen is a bird .
+a grape is a fruit .a maple is a tree .
+a grape is a fruit .an orange is a fruit .
+a hammer is a tool .
+a hammer is a tool .a cherry is a fruit .
+a hammer is a tool .a chisel is a tool .
+a hammer is a tool .a denim is a fabric .
+a hammer is a tool .a goat is an animal .
+a hammer is a tool .a pine is a tree .
+a hammer is a tool .a potato is a vegetable .
+a hammer is a tool .a train is a vehicle .
+a hammer is a tool .a trout is a fish .
+a hammer is a tool .a van is a vehicle .
+a hen is a bird .
+a hen is a bird .a birch is a tree .
+a hen is a bird .a cotton is a fabric .
+a hen is a bird .a goat is an animal .
+a hen is a bird .a horse is an animal .
+a hen is a bird .a tuna is a fish .
+a hen starts life as a chick .
+a herring is a fish .
+a herring is a fish .a carrot is a vegetable .
+a herring is a fish .a gold is a metal .
+a herring is a fish .a robin is a bird .
+a herring is a fish .a spinach is a vegetable .
+a horse is an animal .
+a horse is an animal .a bus is a vehicle .
+a horse is an animal .a car is a vehicle .
+a horse is an animal .a goat is an animal .
+a horse is an animal .a sheep is an animal .
+a horse is an animal .a van is a vehicle .
+a horse starts life as a foal .
+a kid grows into a goat .
+a kid grows into a goat .a calf grows into a cow .
+a kid grows into a goat .a chick grows into a hen .
+a kid grows into a goat .a duckling grows into a duck .
+a kid grows into a goat .a foal grows into a horse .
+a kid grows into a goat .a lamb grows into a sheep .
+a kid grows into a goat .a piglet grows into a pig .
+a kid grows into a goat .a puppy grows into a dog .
+a kid is a young goat .
+a kitten is a young cat .
+a lamb grows into a sheep .
+a lamb grows into a sheep .a calf grows into a cow .
+a lamb grows into a sheep .a cub grows into a bear .
+a lamb is a young sheep .
+a linen is a fabric .
+a linen is a fabric .a chisel is a tool .
+a linen is a fabric .a cod is a fish .
+a linen is a fabric .a trout is a fish .
+a mango is a fruit .
+a mango is a fruit .a banana is a fruit .
+a mango is a fruit .a bear is an animal .
+a mango is a fruit .a cabbage is a vegetable .
+a mango is a fruit .a copper is a metal .
+a mango is a fruit .a hammer is a tool .
+a mango is a fruit .a hen is a bird .
+a mango is a fruit .a robin is a bird .
+a mango is a fruit .a saw is a tool .
+a mango is a fruit .a taxi is a vehicle .
+a mango is a fruit .a wool is a fabric .
+a mango is a fruit .an orange is a fruit .
+a maple is a tree .
+a maple is a tree .a birch is a tree .
+a maple is a tree .a copper is a metal .
+a maple is a tree .a dog is an animal .
+a maple is a tree .a pine is a tree .
+a maple is a tree .a sheep is an animal .
+a parrot is a bird .
+a parrot is a bird .a bicycle is a vehicle .
+a parrot is a bird .a birch is a tree .
+a parrot is a bird .a carrot is a vegetable .
+a parrot is a bird .a cow is an animal .
+a parrot is a bird .a gold is a metal .
+a parrot is a bird .a potato is a vegetable .
+a parrot is a bird .a robin is a bird .
+a parrot is a bird .a shark is a fish .
+a parrot is a bird .a silk is a fabric .
+a peach is a fruit .
+a peach is a fruit .a banana is a fruit .
+a peach is a fruit .a birch is a tree .
+a peach is a fruit .a crow is a bird .
+a peach is a fruit .a dog is an animal .
+a peach is a fruit .a herring is a fish .
+a peach is a fruit .a linen is a fabric .
+a peach is a fruit .a parrot is a bird .
+a pear is a fruit .
+a pear is a fruit .a carrot is a vegetable .
+a pear is a fruit .a cow is an animal .
+a pear is a fruit .a pig is an animal .
+a pear is a fruit .a robin is a bird .
+a pear is a fruit .a trout is a fish .
+a pear is a fruit .an oak is a tree .
+a pig is an animal .
+a pig is an animal .a cat is an animal .
+a pig is an animal .a cherry is a fruit .
+a pig is an animal .a crow is a bird .
+a pig is an animal .a duck is a bird .
+a pig is an animal .a steel is a metal .
+a pig is an animal .an orange is a fruit .
+a pig starts life as a piglet .
+a piglet grows into a pig .
+a piglet grows into a pig .a calf grows into a cow .
+a piglet grows into a pig .a chick grows into a hen .
+a piglet grows into a pig .a kid grows into a goat .
+a piglet grows into a pig .a lamb grows into a sheep .
+a piglet grows into a pig .a puppy grows into a dog .
+a piglet is a young pig .
+a pine is a tree .
+a pine is a tree .a bear is an animal .
+a pine is a tree .a copper is a metal .
+a pine is a tree .a drill is a tool .
+a pine is a tree .a horse is an animal .
+a pine is a tree .a linen is a fabric .
+a pine is a tree .a robin is a bird .
+a pine is a tree .a sheep is an animal .
+a pine is a tree .a wrench is a tool .
+a pine is a tree .an onion is a vegetable .
+a potato is a vegetable .
+a potato is a vegetable .a bear is an animal .
+a potato is a vegetable .a cat is an animal .
+a potato is a vegetable .a cedar is a tree .
+a potato is a vegetable .a cherry is a fruit .
+a potato is a vegetable .a hammer is a tool .
+a potato is a vegetable .a linen is a fabric .
+a potato is a vegetable .an orange is a fruit .
+a puppy grows into a dog .
+a puppy grows into a dog .a calf grows into a cow .
+a puppy grows into a dog .a cub grows into a bear .
+a puppy grows into a dog .a duckling grows into a duck .
+a puppy grows into a dog .a foal grows into a horse .
+a puppy grows into a dog .a lamb grows into a sheep .
+a puppy grows into a dog .a piglet grows into a pig .
+a puppy is a young dog .
+a robin is a bird .
+a robin is a bird .a cabbage is a vegetable .
+a robin is a bird .a dog is an animal .
+a robin is a bird .a linen is a fabric .
+a robin is a bird .a maple is a tree .
+a robin is a bird .a sparrow is a bird .
+a robin is a bird .an iron is a metal .
+a saw is a tool .
+a saw is a tool .a carrot is a vegetable .
+a saw is a tool .a denim is a fabric .
+a saw is a tool .a gold is a metal .
+a saw is a tool .a hammer is a tool .
+a saw is a tool .a pine is a tree .
+a saw is a tool .a sparrow is a bird .
+a shark is a fish .
+a shark is a fish .a bicycle is a vehicle .
+a shark is a fish .a cherry is a fruit .
+a shark is a fish .a cod is a fish .
+a shark is a fish .a tuna is a fish .
+a sheep is an animal .
+a sheep is an animal .a cotton is a fabric .
+a sheep is an animal .a cow is an animal .
+a sheep is an animal .a drill is a tool .
+a sheep is an animal .a hen is a bird .
+a sheep is an animal .a parrot is a bird .
+a sheep is an animal .a robin is a bird .
+a sheep is an animal .a train is a vehicle .
+a sheep starts life as a lamb .
+a silk is a fabric .
+a silk is a fabric .a chisel is a tool .
+a silk is a fabric .a copper is a metal .
+a silk is a fabric .a grape is a fruit .
+a silk is a fabric .a hen is a bird .
+a silk is a fabric .a linen is a fabric .
+a silk is a fabric .a parrot is a bird .
+a silk is a fabric .a tuna is a fish .
+a silver is a metal .
+a silver is a metal .a drill is a tool .
+a silver is a metal .a duck is a bird .
+a silver is a metal .a hammer is a tool .
+a silver is a metal .a shark is a fish .
+a silver is a metal .a spinach is a vegetable .
+a silver is a metal .a taxi is a vehicle .
+a sparrow is a bird .
+a sparrow is a bird .a banana is a fruit .
+a sparrow is a bird .a crow is a bird .
+a sparrow is a bird .a denim is a fabric .
+a sparrow is a bird .a horse is an animal .
+a sparrow is a bird .a parrot is a bird .
+a sparrow is a bird .a robin is a bird .
+a sparrow is a bird .a wrench is a tool .
+a sparrow is a bird .an onion is a vegetable .
+a spinach is a vegetable .
+a spinach is a vegetable .a chisel is a tool .
+a spinach is a vegetable .a cotton is a fabric .
+a spinach is a vegetable .a drill is a tool .
+a spinach is a vegetable .a saw is a tool .
+a spinach is a vegetable .a silk is a fabric .
+a spinach is a vegetable .an iron is a metal .
+a steel is a metal .
+a steel is a metal .a bicycle is a vehicle .
+a steel is a metal .a herring is a fish .
+a steel is a metal .a pine is a tree .
+a steel is a metal .a shark is a fish .
+a steel is a metal .a spinach is a vegetable .
+a taxi is a vehicle .
+a taxi is a vehicle .a crow is a bird .
+a taxi is a vehicle .a horse is an animal .
+a taxi is a vehicle .a maple is a tree .
+a taxi is a vehicle .a pig is an animal .
+a train is a vehicle .
+a train is a vehicle .a bear is an animal .
+a train is a vehicle .a carrot is a vegetable .
+a train is a vehicle .a cod is a fish .
+a train is a vehicle .a herring is a fish .
+a train is a vehicle .a trout is a fish .
+a train is a vehicle .an owl is a bird .
+a trout is a fish .
+a trout is a fish .a cherry is a fruit .
+a trout is a fish .a maple is a tree .
+a trout is a fish .a pig is an animal .
+a trout is a fish .a train is a vehicle .
+a trout is a fish .a tuna is a fish .
+a trout is a fish .an owl is a bird .
+a truck is a vehicle .
+a truck is a vehicle .a birch is a tree .
+a truck is a vehicle .a drill is a tool .
+a truck is a vehicle .a trout is a fish .
+a tuna is a fish .
+a tuna is a fish .a cotton is a fabric .
+a tuna is a fish .a gold is a metal .
+a tuna is a fish .a sparrow is a bird .
+a tuna is a fish .a trout is a fish .
+a van is a vehicle .
+a van is a vehicle .a copper is a metal .
+a van is a vehicle .a maple is a tree .
+a van is a vehicle .a trout is a fish .
+a van is a vehicle .an iron is a metal .
+a wool is a fabric .
+a wool is a fabric .a bear is an animal .
+a wool is a fabric .a car is a vehicle .
+a wool is a fabric .a copper is a metal .
+a wool is a fabric .a cow is an animal .
+a wool is a fabric .a sheep is an animal .
+a wool is a fabric .a spinach is a vegetable .
+a wool is a fabric .a steel is a metal .
+a wool is a fabric .a wrench is a tool .
+a wrench is a tool .
+a wrench is a tool .a broccoli is a vegetable .
+a wrench is a tool .a cat is an animal .
+a wrench is a tool .a cod is a fish .
+a wrench is a tool .a goat is an animal .
+a wrench is a tool .a gold is a metal .
+a wrench is a tool .a grape is a fruit .
+a wrench is a tool .a potato is a vegetable .
+a wrench is a tool .a robin is a bird .
+a wrench is a tool .a train is a vehicle .
+a wrench is a tool .a van is a vehicle .
+a wrench is a tool .an oak is a tree .
+an eagle is a bird .
+an eagle is a bird .a car is a vehicle .
+an eagle is a bird .a denim is a fabric .
+an eagle is a bird .a horse is an animal .
+an eagle is a bird .a mango is a fruit .
+an eagle is a bird .a saw is a tool .
+an eagle is a bird .a trout is a fish .
+an iron is a metal .
+an iron is a metal .a cabbage is a vegetable .
+an iron is a metal .a chisel is a tool .
+an iron is a metal .a mango is a fruit .
+an iron is a metal .a parrot is a bird .
+an iron is a metal .a pear is a fruit .
+an iron is a metal .a trout is a fish .
+an iron is a metal .a wool is a fabric .
+an oak is a tree .
+an oak is a tree .a carrot is a vegetable .
+an oak is a tree .a cotton is a fabric .
+an oak is a tree .an iron is a metal .
+an onion is a vegetable .
+an onion is a vegetable .a broccoli is a vegetable .
+an onion is a vegetable .a bus is a vehicle .
+an onion is a vegetable .a cat is an animal .
+an onion is a vegetable .a copper is a metal .
+an onion is a vegetable .a herring is a fish .
+an onion is a vegetable .a mango is a fruit .
+an onion is a vegetable .a maple is a tree .
+an onion is a vegetable .a pear is a fruit .
+an onion is a vegetable .a pine is a tree .
+an onion is a vegetable .a potato is a vegetable .
+an onion is a vegetable .a sheep is an animal .
+an onion is a vegetable .a sparrow is a bird .
+an onion is a vegetable .an eagle is a bird .
+an onion is a vegetable .an owl is a bird .
+an orange is a fruit .
+an orange is a fruit .a horse is an animal .
+an orange is a fruit .a pig is an animal .
+an orange is a fruit .a shark is a fish .
+an owl is a bird .
+an owl is a bird .a broccoli is a vegetable .
+an owl is a bird .a cow is an animal .
+an owl is a bird .a drill is a tool .
+an owl is a bird .a goat is an animal .
+an owl is a bird .a parrot is a bird .
+an owl is a bird .a pine is a tree .
+an owl is a bird .a potato is a vegetable .
+an owl is a bird .an iron is a metal .
+apple belongs to the fruit group .
+banana belongs to the fruit group .
+bear belongs to the animal group .
+bicycle belongs to the vehicle group .
+birch belongs to the tree group .
+broccoli belongs to the vegetable group .
+bus belongs to the vehicle group .
+cabbage belongs to the vegetable group .
+car belongs to the vehicle group .
+carrot belongs to the vegetable group .
+cat belongs to the animal group .
+cedar belongs to the tree group .
+cherry belongs to the fruit group .
+chisel belongs to the tool group .
+cod belongs to the fish group .
+copper belongs to the metal group .
+cotton belongs to the fabric group .
+cow belongs to the animal group .
+crow belongs to the bird group .
+denim belongs to the fabric group .
+dog belongs to the animal group .
+drill belongs to the tool group .
+duck belongs to the bird group .
+eagle belongs to the bird group .
+every apple is one type of fruit .
+every banana is one type of fruit .
+every bear is one type of animal .
+every bicycle is one type of vehicle .
+every birch is one type of tree .
+every broccoli is one type of vegetable .
+every bus is one type of vehicle .
+every cabbage is one type of vegetable .
+every car is one type of vehicle .
+every carrot is one type of vegetable .
+every cat is one type of animal .
+every cedar is one type of tree .
+every cherry is one type of fruit .
+every chisel is one type of tool .
+every cod is one type of fish .
+every copper is one type of metal .
+every cotton is one type of fabric .
+every cow is one type of animal .
+every crow is one type of bird .
+every denim is one type of fabric .
+every dog is one type of animal .
+every drill is one type of tool .
+every duck is one type of bird .
+every eagle is one type of bird .
+every goat is one type of animal .
+every gold is one type of metal .
+every grape is one type of fruit .
+every hammer is one type of tool .
+every hen is one type of bird .
+every herring is one type of fish .
+every horse is one type of animal .
+every iron is one type of metal .
+every linen is one type of fabric .
+every mango is one type of fruit .
+every maple is one type of tree .
+every oak is one type of tree .
+every onion is one type of vegetable .
+every orange is one type of fruit .
+every owl is one type of bird .
+every parrot is one type of bird .
+every peach is one type of fruit .
+every pear is one type of fruit .
+every pig is one type of animal .
+every pine is one type of tree .
+every potato is one type of vegetable .
+every robin is one type of bird .
+every salmon is one type of fish .
+every saw is one type of tool .
+every shark is one type of fish .
+every sheep is one type of animal .
+every silk is one type of fabric .
+every silver is one type of metal .
+every sparrow is one type of bird .
+every spinach is one type of vegetable .
+every steel is one type of metal .
+every taxi is one type of vehicle .
+every train is one type of vehicle .
+every trout is one type of fish .
+every truck is one type of vehicle .
+every tuna is one type of fish .
+every van is one type of vehicle .
+every wool is one type of fabric .
+every wrench is one type of tool .
+goat belongs to the animal group .
+gold belongs to the metal group .
+grape belongs to the fruit group .
+hammer belongs to the tool group .
+hen belongs to the bird group .
+herring belongs to the fish group .
+horse belongs to the animal group .
+iron belongs to the metal group .
+linen belongs to the fabric group .
+mango belongs to the fruit group .
+maple belongs to the tree group .
+oak belongs to the tree group .
+onion belongs to the vegetable group .
+orange belongs to the fruit group .
+owl belongs to the bird group .
+parrot belongs to the bird group .
+peach belongs to the fruit group .
+pear belongs to the fruit group .
+pig belongs to the animal group .
+pine belongs to the tree group .
+potato belongs to the vegetable group .
+robin belongs to the bird group .
+salmon belongs to the fish group .
+saw belongs to the tool group .
+shark belongs to the fish group .
+sheep belongs to the animal group .
+silk belongs to the fabric group .
+silver belongs to the metal group .
+sparrow belongs to the bird group .
+spinach belongs to the vegetable group .
+steel belongs to the metal group .
+taxi belongs to the vehicle group .
+the apple and the banana are both fruits .
+the apple and the cherry are both fruits .
+the apple and the grape are both fruits .
+the apple and the mango are both fruits .
+the apple and the orange are both fruits .
+the apple and the peach are both fruits .
+the apple and the pear are both fruits .
+the apple is a kind of fruit .
+the banana and the cherry are both fruits .
+the banana and the grape are both fruits .
+the banana and the mango are both fruits .
+the banana and the orange are both fruits .
+the banana and the peach are both fruits .
+the banana and the pear are both fruits .
+the banana is a kind of fruit .
+the bear is a kind of animal .
+the bicycle and the van are both vehicles .
+the bicycle is a kind of vehicle .
+the birch and the cedar are both trees .
+the birch is a kind of tree .
+the broccoli and the cabbage are both vegetables .
+the broccoli and the onion are both vegetables .
+the broccoli and the potato are both vegetables .
+the broccoli and the spinach are both vegetables .
+the broccoli is a kind of vegetable .
+the bus and the bicycle are both vehicles .
+the bus and the taxi are both vehicles .
+the bus and the train are both vehicles .
+the bus and the truck are both vehicles .
+the bus and the van are both vehicles .
+the bus is a kind of vehicle .
+the cabbage is a kind of vegetable .
+the calf will become a cow one day .
+the car and the bicycle are both vehicles .
+the car and the bus are both vehicles .
+the car and the taxi are both vehicles .
+the car and the train are both vehicles .
+the car and the truck are both vehicles .
+the car and the van are both vehicles .
+the car is a kind of vehicle .
+the carrot and the broccoli are both vegetables .
+the carrot and the cabbage are both vegetables .
+the carrot and the onion are both vegetables .
+the carrot and the potato are both vegetables .
+the carrot and the spinach are both vegetables .
+the carrot is a kind of vegetable .
+the cat and the bear are both animals .
+the cat and the cow are both animals .
+the cat and the goat are both animals .
+the cat and the horse are both animals .
+the cat and the pig are both animals .
+the cat and the sheep are both animals .
+the cat is a kind of animal .
+the cedar is a kind of tree .
+the cherry is a kind of fruit .
+the chick will become a hen one day .
+the chisel is a kind of tool .
+the cod and the herring are both fish .
+the cod is a kind of fish .
+the copper and the gold are both metals .
+the copper and the silver are both metals .
+the copper and the steel are both metals .
+the copper is a kind of metal .
+the cotton and the denim are both fabrics .
+the cotton and the linen are both fabrics .
+the cotton and the silk are both fabrics .
+the cotton and the wool are both fabrics .
+the cotton is a kind of fabric .
+the cow and the bear are both animals .
+the cow and the pig are both animals .
+the cow and the sheep are both animals .
+the cow is a kind of animal .
+the crow and the duck are both birds .
+the crow and the hen are both birds .
+the crow and the parrot are both birds .
+the crow is a kind of bird .
+the cub will become a bear one day .
+the denim is a kind of fabric .
+the dog and the bear are both animals .
+the dog and the cat are both animals .
+the dog and the cow are both animals .
+the dog and the goat are both animals .
+the dog and the horse are both animals .
+the dog and the pig are both animals .
+the dog and the sheep are both animals .
+the dog is a kind of animal .
+the drill and the chisel are both tools .
+the drill is a kind of tool .
+the duck and the hen are both birds .
+the duck is a kind of bird .
+the duckling will become a duck one day .
+the eagle and the crow are both birds .
+the eagle and the duck are both birds .
+the eagle and the hen are both birds .
+the eagle and the owl are both birds .
+the eagle and the parrot are both birds .
+the eagle is a kind of bird .
+the foal will become a horse one day .
+the goat and the bear are both animals .
+the goat and the cow are both animals .
+the goat and the pig are both animals .
+the goat and the sheep are both animals .
+the goat is a kind of animal .
+the gold and the silver are both metals .
+the gold and the steel are both metals .
+the gold is a kind of metal .
+the grape and the cherry are both fruits .
+the grape is a kind of fruit .
+the hammer and the chisel are both tools .
+the hammer and the drill are both tools .
+the hammer and the saw are both tools .
+the hammer and the wrench are both tools .
+the hammer is a kind of tool .
+the hen is a kind of bird .
+the herring is a kind of fish .
+the horse and the bear are both animals .
+the horse and the cow are both animals .
+the horse and the goat are both animals .
+the horse and the pig are both animals .
+the horse and the sheep are both animals .
+the horse is a kind of animal .
+the iron and the copper are both metals .
+the iron and the gold are both metals .
+the iron and the silver are both metals .
+the iron and the steel are both metals .
+the iron is a kind of metal .
+the kid will become a goat one day .
+the kitten will become a cat one day .
+the lamb will become a sheep one day .
+the linen and the denim are both fabrics .
+the linen is a kind of fabric .
+the mango and the cherry are both fruits .
+the mango and the grape are both fruits .
+the mango is a kind of fruit .
+the maple and the birch are both trees .
+the maple and the cedar are both trees .
+the maple is a kind of tree .
+the oak and the birch are both trees .
+the oak and the cedar are both trees .
+the oak and the maple are both trees .
+the oak and the pine are both trees .
+the oak is a kind of tree .
+the onion and the cabbage are both vegetables .
+the onion and the potato are both vegetables .
+the onion and the spinach are both vegetables .
+the onion is a kind of vegetable .
+the orange and the cherry are both fruits .
+the orange and the grape are both fruits .
+the orange and the mango are both fruits .
+the orange and the peach are both fruits .
+the orange and the pear are both fruits .
+the orange is a kind of fruit .
+the owl and the crow are both birds .
+the owl and the duck are both birds .
+the owl and the hen are both birds .
+the owl and the parrot are both birds .
+the owl is a kind of bird .
+the parrot and the duck are both birds .
+the parrot and the hen are both birds .
+the parrot is a kind of bird .
+the peach and the cherry are both fruits .
+the peach and the grape are both fruits .
+the peach and the mango are both fruits .
+the peach is a kind of fruit .
+the pear and the cherry are both fruits .
+the pear and the grape are both fruits .
+the pear and the mango are both fruits .
+the pear and the peach are both fruits .
+the pear is a kind of fruit .
+the pig and the bear are both animals .
+the pig is a kind of animal .
+the piglet will become a pig one day .
+the pine and the birch are both trees .
+the pine and the cedar are both trees .
+the pine and the maple are both trees .
+the pine is a kind of tree .
+the potato and the cabbage are both vegetables .
+the potato and the spinach are both vegetables .
+the potato is a kind of vegetable .
+the puppy will become a dog one day .
+the robin and the crow are both birds .
+the robin and the duck are both birds .
+the robin and the eagle are both birds .
+the robin and the hen are both birds .
+the robin and the owl are both birds .
+the robin and the parrot are both birds .
+the robin is a kind of bird .
+the salmon and the cod are both fish .
+the salmon and the herring are both fish .
+the salmon and the shark are both fish .
+the salmon and the tuna are both fish .
+the salmon is a kind of fish .
+the saw and the chisel are both tools .
+the saw and the drill are both tools .
+the saw and the wrench are both tools .
+the saw is a kind of tool .
+the shark and the cod are both fish .
+the shark and the herring are both fish .
+the shark is a kind of fish .
+the sheep and the bear are both animals .
+the sheep and the pig are both animals .
+the sheep is a kind of animal .
+the silk and the denim are both fabrics .
+the silk and the linen are both fabrics .
+the silk and the wool are both fabrics .
+the silk is a kind of fabric .
+the silver and the steel are both metals .
+the silver is a kind of metal .
+the sparrow and the crow are both birds .
+the sparrow and the duck are both birds .
+the sparrow and the eagle are both birds .
+the sparrow and the hen are both birds .
+the sparrow and the owl are both birds .
+the sparrow and the parrot are both birds .
+the sparrow and the robin are both birds .
+the sparrow is a kind of bird .
+the spinach and the cabbage are both vegetables .
+the spinach is a kind of vegetable .
+the steel is a kind of metal .
+the taxi and the bicycle are both vehicles .
+the taxi and the van are both vehicles .
+the taxi is a kind of vehicle .
+the train and the bicycle are both vehicles .
+the train and the taxi are both vehicles .
+the train and the truck are both vehicles .
+the train and the van are both vehicles .
+the train is a kind of vehicle .
+the trout and the cod are both fish .
+the trout and the herring are both fish .
+the trout and the salmon are both fish .
+the trout and the shark are both fish .
+the trout and the tuna are both fish .
+the trout is a kind of fish .
+the truck and the bicycle are both vehicles .
+the truck and the taxi are both vehicles .
+the truck and the van are both vehicles .
+the truck is a kind of vehicle .
+the tuna and the cod are both fish .
+the tuna and the herring are both fish .
+the tuna and the shark are both fish .
+the tuna is a kind of fish .
+the van is a kind of vehicle .
+the wool and the denim are both fabrics .
+the wool and the linen are both fabrics .
+the wool is a kind of fabric .
+the wrench and the chisel are both tools .
+the wrench and the drill are both tools .
+the wrench is a kind of tool .
+train belongs to the vehicle group .
+trout belongs to the fish group .
+truck belongs to the vehicle group .
+tuna belongs to the fish group .
+van belongs to the vehicle group .
+wool belongs to the fabric group .
+wrench belongs to the tool group .
