@@ -1,0 +1,18 @@
+#!/usr/bin/expect -f
+# Replays the README's chat session through the unchanged chat.py in a real terminal.
+# The prompts are typed at chat.py's own "You:" prompt; replies come from the saved model.
+# Usage (from the repo root): expect chat_session.exp
+set timeout 60
+spawn .venv/bin/python chat.py --model experiments/extension/run/model.pt --transcript experiments/extension/chat_transcript.json
+foreach prompt {
+    "the doctor"
+    "the opposite of tall is"
+    "my favorite umbrella"
+    "the cup is not red . it is white . the cup is"
+} {
+    expect "You: "
+    send -- "$prompt\r"
+}
+expect "You: "
+send -- "/quit\r"
+expect eof

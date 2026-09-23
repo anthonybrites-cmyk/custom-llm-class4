@@ -1,6 +1,6 @@
 {
   "model": "experiments/extension/run/model.pt",
-  "model_sha256": "8d9edf2618e37d4724b6ac5af3d39cc39a3c97804c32c941e3e83541609c335d",
+  "model_sha256": "88237999e17b277a9caeea686e78d2b38421668d0c38a272d54528a5822a8412",
   "completed_steps": 3000,
   "fresh_context_per_prompt": true,
   "temperature": 0.8,
@@ -9,7 +9,7 @@
     {
       "prompt": "the doctor",
       "seed": 2026,
-      "response": "and the sharp are both vehicles .",
+      "response": "and the birch are both trees .",
       "unknown_prompt_words": [],
       "prompt_truncated": false
     },
@@ -23,7 +23,7 @@
     {
       "prompt": "my favorite umbrella",
       "seed": 2028,
-      "response": "the linen are both fabrics .",
+      "response": ".",
       "unknown_prompt_words": [
         "favorite",
         "my",
@@ -34,7 +34,7 @@
     {
       "prompt": "the cup is not red . it is white . the cup is",
       "seed": 2029,
-      "response": "blue .",
+      "response": "grey .",
       "unknown_prompt_words": [],
       "prompt_truncated": false
     }

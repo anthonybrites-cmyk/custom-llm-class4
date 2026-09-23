@@ -1,0 +1,55 @@
+Scanned 9,316 lines from experiments/extension/run/corpus.txt
+
+A/B/C/D: lines that match (all must be 0)
+  lang_25  A=0 B=0 C=0 D=0  one bird -> is
+  lang_26  A=0 B=0 C=0 D=0  the dogs -> are
+  lang_27  A=0 B=0 C=0 D=0  yesterday she -> walked
+  lang_28  A=0 B=0 C=0 D=0  the opposite of hot is -> cold
+  lang_29  A=0 B=0 C=0 D=0  the opposite of empty is -> full
+  lang_30  A=0 B=0 C=0 D=0  the opposite of noisy is -> quiet
+  lang_31  A=0 B=0 C=0 D=0  the box is not red . it is blue . the box is -> blue
+  lang_32  A=0 B=0 C=0 D=0  ava did not buy tea . she bought milk . ava bought -> milk
+  lang_33  A=0 B=0 C=0 D=0  the door is not open . it is closed . the door is -> closed
+  lang_34  A=0 B=0 C=0 D=0  maya lent a book to leo . leo thanked -> maya
+  lang_35  A=0 B=0 C=0 D=0  ella gave finn a pencil . the person who received the pencil was -> finn
+  lang_36  A=0 B=0 C=0 D=0  omar called nina . nina answered the call from -> omar
+  lang_37  A=0 B=0 C=0 D=0  first wash the cup . then dry it . the last action is -> dry
+  lang_38  A=0 B=0 C=0 D=0  lunch happens after breakfast . the earlier meal is -> breakfast
+  lang_39  A=0 B=0 C=0 D=0  the train arrived before the bus . the vehicle that arrived later was the -> bus
+  lang_40  A=0 B=0 C=0 D=0  the book is inside the bag . the bag contains the -> book
+  lang_41  A=0 B=0 C=0 D=0  the lamp is above the desk . the desk is -> below
+  lang_42  A=0 B=0 C=0 D=0  the ball is left of the box . the box is to the -> right
+  lang_43  A=0 B=0 C=0 D=0  water freezes into -> ice
+  lang_44  A=0 B=0 C=0 D=0  a person uses an umbrella to stay -> dry
+  lang_45  A=0 B=0 C=0 D=0  to see in a dark room we turn on a -> light
+  lang_46  A=0 B=0 C=0 D=0  a robin is a bird . a salmon is a -> fish
+  lang_47  A=0 B=0 C=0 D=0  a puppy grows into a dog . a kitten grows into a -> cat
+  lang_48  A=0 B=0 C=0 D=0  a carrot is a vegetable . an apple is a -> fruit
+
+Closest teaching line for each extend_corpus case (longest word-for-word run shared with prompt + answer)
+  lang_25   1/3 tokens  shared: "is"  e.g. 'a banana is a fruit .'
+  lang_26   1/3 tokens  shared: "the"  e.g. 'we learned about the new customer during a discussion of service .'
+  lang_27   1/3 tokens  shared: "yesterday"  e.g. 'the new customer was mentioned in the service report yesterday .'
+  lang_28   3/6 tokens  shared: "the opposite of"  e.g. 'big is the opposite of small .'
+  lang_29   3/6 tokens  shared: "the opposite of"  e.g. 'big is the opposite of small .'
+  lang_30   3/6 tokens  shared: "the opposite of"  e.g. 'big is the opposite of small .'
+  lang_31   6/14 tokens  shared: "is not red . it is"  e.g. 'the ball is not red . it is black . the ball is black .'
+  lang_32   3/13 tokens  shared: "did not buy"  e.g. 'ben did not buy bread , he bought honey instead .'
+  lang_33   3/14 tokens  shared: ". it is"  e.g. 'the ball is not black . it is white . the ball is white .'
+  lang_34   1/10 tokens  shared: "a"  e.g. 'we learned about the new customer during a discussion of service .'
+  lang_35   2/14 tokens  shared: ". the"  e.g. 'the ball is not black . it is white . the ball is white .'
+  lang_36   1/10 tokens  shared: "."  e.g. 'we learned about the new customer during a discussion of service .'
+  lang_37   2/14 tokens  shared: ". the"  e.g. 'the ball is not black . it is white . the ball is white .'
+  lang_38   2/10 tokens  shared: ". the"  e.g. 'the ball is not black . it is white . the ball is white .'
+  lang_39   2/15 tokens  shared: "the bus"  e.g. 'the team discussed the bus and the travel at the station .'
+  lang_40   2/12 tokens  shared: ". the"  e.g. 'the ball is not black . it is white . the ball is white .'
+  lang_41   3/11 tokens  shared: "the lamp is"  e.g. 'the lamp is not black , the lamp is blue .'
+  lang_42   3/14 tokens  shared: "the ball is"  e.g. 'the ball is not black , the ball is blue .'
+  lang_43   1/4 tokens  shared: "into"  e.g. 'a calf grows into a cow .'
+  lang_44   1/8 tokens  shared: "a"  e.g. 'we learned about the new customer during a discussion of service .'
+  lang_45   1/11 tokens  shared: "a"  e.g. 'we learned about the new customer during a discussion of service .'
+  lang_46   5/11 tokens  shared: "is a bird . a"  e.g. 'a crow is a bird . a bicycle is a vehicle .'
+  lang_47   3/13 tokens  shared: "grows into a"  e.g. 'a calf grows into a cow .'
+  lang_48   5/11 tokens  shared: "is a vegetable . an"  e.g. 'a broccoli is a vegetable . an eagle is a bird .'
+
+RESULT: PASS - no eval prompt, test sentence, negation-story values or tested opposite frame

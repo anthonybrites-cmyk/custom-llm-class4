@@ -3,13 +3,11 @@ a banana is a fruit .a bear is an animal .
 a banana is a fruit .a birch is a tree .
 a banana is a fruit .a cod is a fish .
 a banana is a fruit .a herring is a fish .
-a banana is a fruit .a linen is a fabric .
 a banana is a fruit .a parrot is a bird .
 a banana is a fruit .a sparrow is a bird .
 a banana is a fruit .a spinach is a vegetable .
 a banana is a fruit .a train is a vehicle .
 a bear is an animal .
-a bear is an animal .a carrot is a vegetable .
 a bear is an animal .a cat is an animal .
 a bear is an animal .a chisel is a tool .
 a bear is an animal .a pear is a fruit .
@@ -25,19 +23,18 @@ a bicycle is a vehicle .a broccoli is a vegetable .
 a bicycle is a vehicle .a chisel is a tool .
 a bicycle is a vehicle .a maple is a tree .
 a birch is a tree .
-a birch is a tree .a carrot is a vegetable .
 a birch is a tree .a cat is an animal .
 a birch is a tree .a gold is a metal .
 a birch is a tree .a sparrow is a bird .
 a birch is a tree .a trout is a fish .
 a broccoli is a vegetable .
 a broccoli is a vegetable .a bear is an animal .
-a broccoli is a vegetable .a cabbage is a vegetable .
 a broccoli is a vegetable .a drill is a tool .
 a broccoli is a vegetable .a linen is a fabric .
 a broccoli is a vegetable .a steel is a metal .
 a broccoli is a vegetable .an eagle is a bird .
 a bus is a vehicle .
+a bus is a vehicle .a denim is a fabric .
 a bus is a vehicle .a silver is a metal .
 a cabbage is a vegetable .
 a cabbage is a vegetable .a bear is an animal .
@@ -52,29 +49,28 @@ a calf grows into a cow .a duckling grows into a duck .
 a calf grows into a cow .a foal grows into a horse .
 a calf grows into a cow .a kid grows into a goat .
 a calf grows into a cow .a lamb grows into a sheep .
-a calf grows into a cow .a puppy grows into a dog .
+a calf grows into a cow .a piglet grows into a pig .
 a calf is a young cow .
 a car is a vehicle .
 a car is a vehicle .a cat is an animal .
 a car is a vehicle .a cedar is a tree .
 a car is a vehicle .a chisel is a tool .
 a car is a vehicle .a crow is a bird .
+a car is a vehicle .a drill is a tool .
 a car is a vehicle .a linen is a fabric .
+a car is a vehicle .a pear is a fruit .
 a car is a vehicle .a spinach is a vegetable .
 a car is a vehicle .a train is a vehicle .
 a car is a vehicle .a van is a vehicle .
-a carrot is a vegetable .
-a carrot is a vegetable .a parrot is a bird .
 a cat is an animal .
 a cat is an animal .a bicycle is a vehicle .
 a cat is an animal .a drill is a tool .
-a cat is an animal .a robin is a bird .
 a cat is an animal .a sheep is an animal .
 a cat is an animal .a train is a vehicle .
 a cat is an animal .an onion is a vegetable .
 a cat starts life as a kitten .
 a cedar is a tree .
-a cedar is a tree .a carrot is a vegetable .
+a cedar is a tree .a cod is a fish .
 a cherry is a fruit .
 a cherry is a fruit .a cedar is a tree .
 a cherry is a fruit .a chisel is a tool .
@@ -90,15 +86,14 @@ a chick grows into a hen .a cub grows into a bear .
 a chick grows into a hen .a duckling grows into a duck .
 a chick grows into a hen .a foal grows into a horse .
 a chick grows into a hen .a piglet grows into a pig .
-a chick grows into a hen .a puppy grows into a dog .
 a chick is a young hen .
 a chisel is a tool .
+a chisel is a tool .a banana is a fruit .
 a chisel is a tool .a bus is a vehicle .
 a chisel is a tool .a cabbage is a vegetable .
 a chisel is a tool .a copper is a metal .
 a chisel is a tool .a denim is a fabric .
 a chisel is a tool .a gold is a metal .
-a chisel is a tool .a horse is an animal .
 a chisel is a tool .a pig is an animal .
 a chisel is a tool .a sheep is an animal .
 a chisel is a tool .a trout is a fish .
@@ -112,17 +107,13 @@ a cod is a fish .a denim is a fabric .
 a cod is a fish .a potato is a vegetable .
 a cod is a fish .a steel is a metal .
 a copper is a metal .
-a copper is a metal .a carrot is a vegetable .
 a copper is a metal .a cod is a fish .
 a copper is a metal .a dog is an animal .
 a copper is a metal .a gold is a metal .
-a copper is a metal .a tuna is a fish .
-a copper is a metal .an onion is a vegetable .
 a copper is a metal .an orange is a fruit .
 a cotton is a fabric .
 a cotton is a fabric .a broccoli is a vegetable .
 a cotton is a fabric .a horse is an animal .
-a cotton is a fabric .a robin is a bird .
 a cotton is a fabric .a silk is a fabric .
 a cotton is a fabric .a silver is a metal .
 a cotton is a fabric .an oak is a tree .
@@ -140,7 +131,6 @@ a crow is a bird .
 a crow is a bird .a bicycle is a vehicle .
 a crow is a bird .a cedar is a tree .
 a crow is a bird .a hammer is a tool .
-a crow is a bird .a herring is a fish .
 a crow is a bird .a mango is a fruit .
 a crow is a bird .a maple is a tree .
 a crow is a bird .a potato is a vegetable .
@@ -149,6 +139,7 @@ a crow is a bird .a wool is a fabric .
 a crow is a bird .an onion is a vegetable .
 a cub grows into a bear .
 a cub grows into a bear .a calf grows into a cow .
+a cub grows into a bear .a kid grows into a goat .
 a cub is a young bear .
 a denim is a fabric .
 a denim is a fabric .a duck is a bird .
@@ -164,7 +155,6 @@ a drill is a tool .a cedar is a tree .
 a drill is a tool .a horse is an animal .
 a duck is a bird .
 a duck is a bird .a car is a vehicle .
-a duck is a bird .a carrot is a vegetable .
 a duck is a bird .a chisel is a tool .
 a duck is a bird .a gold is a metal .
 a duck is a bird .a mango is a fruit .
@@ -177,9 +167,7 @@ a duckling grows into a duck .a chick grows into a hen .
 a duckling grows into a duck .a cub grows into a bear .
 a duckling grows into a duck .a foal grows into a horse .
 a duckling grows into a duck .a kid grows into a goat .
-a duckling grows into a duck .a lamb grows into a sheep .
 a duckling grows into a duck .a piglet grows into a pig .
-a duckling grows into a duck .a puppy grows into a dog .
 a duckling is a young duck .
 a foal grows into a horse .
 a foal grows into a horse .a calf grows into a cow .
@@ -189,7 +177,6 @@ a foal grows into a horse .a duckling grows into a duck .
 a foal grows into a horse .a kid grows into a goat .
 a foal grows into a horse .a lamb grows into a sheep .
 a foal grows into a horse .a piglet grows into a pig .
-a foal grows into a horse .a puppy grows into a dog .
 a foal is a young horse .
 a goat is an animal .
 a goat is an animal .a car is a vehicle .
@@ -199,6 +186,7 @@ a goat is an animal .a peach is a fruit .
 a goat is an animal .a potato is a vegetable .
 a goat is an animal .a sheep is an animal .
 a goat is an animal .a silver is a metal .
+a goat is an animal .a tuna is a fish .
 a goat is an animal .a wool is a fabric .
 a goat starts life as a kid .
 a gold is a metal .
@@ -206,7 +194,6 @@ a gold is a metal .a birch is a tree .
 a gold is a metal .a broccoli is a vegetable .
 a gold is a metal .a hen is a bird .
 a gold is a metal .a horse is an animal .
-a gold is a metal .a mango is a fruit .
 a grape is a fruit .
 a grape is a fruit .a birch is a tree .
 a grape is a fruit .a cod is a fish .
@@ -215,10 +202,8 @@ a grape is a fruit .a hen is a bird .
 a grape is a fruit .a maple is a tree .
 a grape is a fruit .an orange is a fruit .
 a hammer is a tool .
-a hammer is a tool .a cherry is a fruit .
 a hammer is a tool .a chisel is a tool .
 a hammer is a tool .a denim is a fabric .
-a hammer is a tool .a goat is an animal .
 a hammer is a tool .a pine is a tree .
 a hammer is a tool .a potato is a vegetable .
 a hammer is a tool .a train is a vehicle .
@@ -229,12 +214,9 @@ a hen is a bird .a birch is a tree .
 a hen is a bird .a cotton is a fabric .
 a hen is a bird .a goat is an animal .
 a hen is a bird .a horse is an animal .
-a hen is a bird .a tuna is a fish .
 a hen starts life as a chick .
 a herring is a fish .
-a herring is a fish .a carrot is a vegetable .
 a herring is a fish .a gold is a metal .
-a herring is a fish .a robin is a bird .
 a herring is a fish .a spinach is a vegetable .
 a horse is an animal .
 a horse is an animal .a bus is a vehicle .
@@ -246,16 +228,17 @@ a horse starts life as a foal .
 a kid grows into a goat .
 a kid grows into a goat .a calf grows into a cow .
 a kid grows into a goat .a chick grows into a hen .
+a kid grows into a goat .a cub grows into a bear .
 a kid grows into a goat .a duckling grows into a duck .
 a kid grows into a goat .a foal grows into a horse .
 a kid grows into a goat .a lamb grows into a sheep .
 a kid grows into a goat .a piglet grows into a pig .
-a kid grows into a goat .a puppy grows into a dog .
 a kid is a young goat .
 a kitten is a young cat .
 a lamb grows into a sheep .
 a lamb grows into a sheep .a calf grows into a cow .
 a lamb grows into a sheep .a cub grows into a bear .
+a lamb grows into a sheep .a piglet grows into a pig .
 a lamb is a young sheep .
 a linen is a fabric .
 a linen is a fabric .a chisel is a tool .
@@ -265,10 +248,8 @@ a mango is a fruit .
 a mango is a fruit .a banana is a fruit .
 a mango is a fruit .a bear is an animal .
 a mango is a fruit .a cabbage is a vegetable .
-a mango is a fruit .a copper is a metal .
 a mango is a fruit .a hammer is a tool .
 a mango is a fruit .a hen is a bird .
-a mango is a fruit .a robin is a bird .
 a mango is a fruit .a saw is a tool .
 a mango is a fruit .a taxi is a vehicle .
 a mango is a fruit .a wool is a fabric .
@@ -277,17 +258,15 @@ a maple is a tree .
 a maple is a tree .a birch is a tree .
 a maple is a tree .a copper is a metal .
 a maple is a tree .a dog is an animal .
+a maple is a tree .a mango is a fruit .
 a maple is a tree .a pine is a tree .
 a maple is a tree .a sheep is an animal .
 a parrot is a bird .
 a parrot is a bird .a bicycle is a vehicle .
 a parrot is a bird .a birch is a tree .
-a parrot is a bird .a carrot is a vegetable .
 a parrot is a bird .a cow is an animal .
 a parrot is a bird .a gold is a metal .
 a parrot is a bird .a potato is a vegetable .
-a parrot is a bird .a robin is a bird .
-a parrot is a bird .a shark is a fish .
 a parrot is a bird .a silk is a fabric .
 a peach is a fruit .
 a peach is a fruit .a banana is a fruit .
@@ -298,10 +277,8 @@ a peach is a fruit .a herring is a fish .
 a peach is a fruit .a linen is a fabric .
 a peach is a fruit .a parrot is a bird .
 a pear is a fruit .
-a pear is a fruit .a carrot is a vegetable .
 a pear is a fruit .a cow is an animal .
 a pear is a fruit .a pig is an animal .
-a pear is a fruit .a robin is a bird .
 a pear is a fruit .a trout is a fish .
 a pear is a fruit .an oak is a tree .
 a pig is an animal .
@@ -317,15 +294,13 @@ a piglet grows into a pig .a calf grows into a cow .
 a piglet grows into a pig .a chick grows into a hen .
 a piglet grows into a pig .a kid grows into a goat .
 a piglet grows into a pig .a lamb grows into a sheep .
-a piglet grows into a pig .a puppy grows into a dog .
 a piglet is a young pig .
 a pine is a tree .
 a pine is a tree .a bear is an animal .
+a pine is a tree .a broccoli is a vegetable .
 a pine is a tree .a copper is a metal .
-a pine is a tree .a drill is a tool .
 a pine is a tree .a horse is an animal .
 a pine is a tree .a linen is a fabric .
-a pine is a tree .a robin is a bird .
 a pine is a tree .a sheep is an animal .
 a pine is a tree .a wrench is a tool .
 a pine is a tree .an onion is a vegetable .
@@ -336,24 +311,10 @@ a potato is a vegetable .a cedar is a tree .
 a potato is a vegetable .a cherry is a fruit .
 a potato is a vegetable .a hammer is a tool .
 a potato is a vegetable .a linen is a fabric .
+a potato is a vegetable .a wrench is a tool .
 a potato is a vegetable .an orange is a fruit .
-a puppy grows into a dog .
-a puppy grows into a dog .a calf grows into a cow .
-a puppy grows into a dog .a cub grows into a bear .
-a puppy grows into a dog .a duckling grows into a duck .
-a puppy grows into a dog .a foal grows into a horse .
-a puppy grows into a dog .a lamb grows into a sheep .
-a puppy grows into a dog .a piglet grows into a pig .
 a puppy is a young dog .
-a robin is a bird .
-a robin is a bird .a cabbage is a vegetable .
-a robin is a bird .a dog is an animal .
-a robin is a bird .a linen is a fabric .
-a robin is a bird .a maple is a tree .
-a robin is a bird .a sparrow is a bird .
-a robin is a bird .an iron is a metal .
 a saw is a tool .
-a saw is a tool .a carrot is a vegetable .
 a saw is a tool .a denim is a fabric .
 a saw is a tool .a gold is a metal .
 a saw is a tool .a hammer is a tool .
@@ -370,7 +331,6 @@ a sheep is an animal .a cow is an animal .
 a sheep is an animal .a drill is a tool .
 a sheep is an animal .a hen is a bird .
 a sheep is an animal .a parrot is a bird .
-a sheep is an animal .a robin is a bird .
 a sheep is an animal .a train is a vehicle .
 a sheep starts life as a lamb .
 a silk is a fabric .
@@ -394,7 +354,6 @@ a sparrow is a bird .a crow is a bird .
 a sparrow is a bird .a denim is a fabric .
 a sparrow is a bird .a horse is an animal .
 a sparrow is a bird .a parrot is a bird .
-a sparrow is a bird .a robin is a bird .
 a sparrow is a bird .a wrench is a tool .
 a sparrow is a bird .an onion is a vegetable .
 a spinach is a vegetable .
@@ -417,7 +376,6 @@ a taxi is a vehicle .a maple is a tree .
 a taxi is a vehicle .a pig is an animal .
 a train is a vehicle .
 a train is a vehicle .a bear is an animal .
-a train is a vehicle .a carrot is a vegetable .
 a train is a vehicle .a cod is a fish .
 a train is a vehicle .a herring is a fish .
 a train is a vehicle .a trout is a fish .
@@ -426,7 +384,6 @@ a trout is a fish .
 a trout is a fish .a cherry is a fruit .
 a trout is a fish .a maple is a tree .
 a trout is a fish .a pig is an animal .
-a trout is a fish .a train is a vehicle .
 a trout is a fish .a tuna is a fish .
 a trout is a fish .an owl is a bird .
 a truck is a vehicle .
@@ -441,6 +398,7 @@ a tuna is a fish .a trout is a fish .
 a van is a vehicle .
 a van is a vehicle .a copper is a metal .
 a van is a vehicle .a maple is a tree .
+a van is a vehicle .a pine is a tree .
 a van is a vehicle .a trout is a fish .
 a van is a vehicle .an iron is a metal .
 a wool is a fabric .
@@ -448,6 +406,7 @@ a wool is a fabric .a bear is an animal .
 a wool is a fabric .a car is a vehicle .
 a wool is a fabric .a copper is a metal .
 a wool is a fabric .a cow is an animal .
+a wool is a fabric .a pine is a tree .
 a wool is a fabric .a sheep is an animal .
 a wool is a fabric .a spinach is a vegetable .
 a wool is a fabric .a steel is a metal .
@@ -460,10 +419,18 @@ a wrench is a tool .a goat is an animal .
 a wrench is a tool .a gold is a metal .
 a wrench is a tool .a grape is a fruit .
 a wrench is a tool .a potato is a vegetable .
-a wrench is a tool .a robin is a bird .
-a wrench is a tool .a train is a vehicle .
 a wrench is a tool .a van is a vehicle .
 a wrench is a tool .an oak is a tree .
+a young bear is called a cub .
+a young cat is called a kitten .
+a young cow is called a calf .
+a young dog is called a puppy .
+a young duck is called a duckling .
+a young goat is called a kid .
+a young hen is called a chick .
+a young horse is called a foal .
+a young pig is called a piglet .
+a young sheep is called a lamb .
 an eagle is a bird .
 an eagle is a bird .a car is a vehicle .
 an eagle is a bird .a denim is a fabric .
@@ -480,13 +447,14 @@ an iron is a metal .a pear is a fruit .
 an iron is a metal .a trout is a fish .
 an iron is a metal .a wool is a fabric .
 an oak is a tree .
-an oak is a tree .a carrot is a vegetable .
 an oak is a tree .a cotton is a fabric .
+an oak is a tree .a linen is a fabric .
 an oak is a tree .an iron is a metal .
 an onion is a vegetable .
 an onion is a vegetable .a broccoli is a vegetable .
 an onion is a vegetable .a bus is a vehicle .
 an onion is a vegetable .a cat is an animal .
+an onion is a vegetable .a cod is a fish .
 an onion is a vegetable .a copper is a metal .
 an onion is a vegetable .a herring is a fish .
 an onion is a vegetable .a mango is a fruit .
@@ -499,9 +467,11 @@ an onion is a vegetable .a sparrow is a bird .
 an onion is a vegetable .an eagle is a bird .
 an onion is a vegetable .an owl is a bird .
 an orange is a fruit .
+an orange is a fruit .a denim is a fabric .
 an orange is a fruit .a horse is an animal .
 an orange is a fruit .a pig is an animal .
 an orange is a fruit .a shark is a fish .
+an orange is a fruit .a silk is a fabric .
 an owl is a bird .
 an owl is a bird .a broccoli is a vegetable .
 an owl is a bird .a cow is an animal .

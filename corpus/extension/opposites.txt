@@ -12,9 +12,7 @@ clean is the opposite of dirty .
 clean means not dirty .
 closed and open are opposites .
 closed is the opposite of open .
-closed means not open .
 cold and hot are opposites .
-cold is the opposite of hot .
 cold means not hot .
 cool and warm are opposites .
 cool is the opposite of warm .
@@ -41,7 +39,6 @@ early and late are opposites .
 early is the opposite of late .
 early means not late .
 empty and full are opposites .
-empty is the opposite of full .
 empty means not full .
 far and near are opposites .
 far is the opposite of near .
@@ -53,7 +50,6 @@ flat and round are opposites .
 flat is the opposite of round .
 flat means not round .
 full and empty are opposites .
-full is the opposite of empty .
 full means not empty .
 happy and sad are opposites .
 happy is the opposite of sad .
@@ -68,13 +64,11 @@ high and low are opposites .
 high is the opposite of low .
 high means not low .
 hot and cold are opposites .
-hot is the opposite of cold .
 hot means not cold .
 if it is not big then it is small .
 if it is not brief then it is long .
 if it is not bright then it is dark .
 if it is not clean then it is dirty .
-if it is not closed then it is open .
 if it is not cold then it is hot .
 if it is not cool then it is warm .
 if it is not dark then it is bright .
@@ -103,7 +97,6 @@ if it is not narrow then it is wide .
 if it is not near then it is far .
 if it is not noisy then it is quiet .
 if it is not old then it is young .
-if it is not open then it is closed .
 if it is not poor then it is rich .
 if it is not quiet then it is noisy .
 if it is not rich then it is poor .
@@ -152,259 +145,248 @@ near and far are opposites .
 near is the opposite of far .
 near means not far .
 noisy and quiet are opposites .
-noisy is the opposite of quiet .
 noisy means not quiet .
 old and young are opposites .
 old is the opposite of young .
 old means not young .
-one bag is bright and the other bag is dark .
-one bag is closed and the other bag is open .
-one bag is dark and the other bag is bright .
+one bag is deep and the other bag is shallow .
+one bag is dirty and the other bag is clean .
 one bag is down and the other bag is up .
+one bag is dry and the other bag is wet .
 one bag is dull and the other bag is sharp .
-one bag is far and the other bag is near .
-one bag is flat and the other bag is round .
-one bag is heavy and the other bag is light .
+one bag is early and the other bag is late .
+one bag is fast and the other bag is slow .
+one bag is happy and the other bag is sad .
+one bag is hard and the other bag is soft .
 one bag is late and the other bag is early .
-one bag is light and the other bag is heavy .
-one bag is low and the other bag is high .
-one bag is narrow and the other bag is wide .
-one bag is round and the other bag is flat .
+one bag is long and the other bag is brief .
+one bag is sad and the other bag is happy .
 one bag is shallow and the other bag is deep .
 one bag is short and the other bag is tall .
-one bag is slow and the other bag is fast .
-one bag is smooth and the other bag is rough .
 one bag is sour and the other bag is sweet .
-one bag is strong and the other bag is weak .
-one bag is tall and the other bag is short .
-one bag is wet and the other bag is dry .
-one coat is big and the other coat is small .
+one bag is up and the other bag is down .
+one bag is weak and the other bag is strong .
+one box is big and the other box is small .
+one box is brief and the other box is long .
+one box is dull and the other box is sharp .
+one box is far and the other box is near .
+one box is hard and the other box is soft .
+one box is heavy and the other box is light .
+one box is light and the other box is heavy .
+one box is poor and the other box is rich .
+one box is rich and the other box is poor .
+one box is round and the other box is flat .
+one box is sharp and the other box is dull .
+one box is slow and the other box is fast .
+one box is soft and the other box is hard .
+one box is sour and the other box is sweet .
+one box is strong and the other box is weak .
+one box is thin and the other box is thick .
+one box is warm and the other box is cool .
+one box is wide and the other box is narrow .
 one coat is brief and the other coat is long .
-one coat is bright and the other coat is dark .
-one coat is clean and the other coat is dirty .
-one coat is closed and the other coat is open .
 one coat is cold and the other coat is hot .
-one coat is cool and the other coat is warm .
-one coat is dark and the other coat is bright .
 one coat is empty and the other coat is full .
-one coat is full and the other coat is empty .
-one coat is late and the other coat is early .
-one coat is long and the other coat is brief .
+one coat is fast and the other coat is slow .
+one coat is happy and the other coat is sad .
+one coat is heavy and the other coat is light .
 one coat is loud and the other coat is silent .
 one coat is low and the other coat is high .
-one coat is narrow and the other coat is wide .
-one coat is open and the other coat is closed .
-one coat is poor and the other coat is rich .
+one coat is noisy and the other coat is quiet .
+one coat is rough and the other coat is smooth .
+one coat is round and the other coat is flat .
 one coat is sad and the other coat is happy .
-one coat is shallow and the other coat is deep .
+one coat is sharp and the other coat is dull .
 one coat is short and the other coat is tall .
-one coat is silent and the other coat is loud .
-one coat is slow and the other coat is fast .
+one coat is smooth and the other coat is rough .
+one coat is soft and the other coat is hard .
+one coat is tall and the other coat is short .
+one coat is thick and the other coat is thin .
 one coat is thin and the other coat is thick .
 one coat is warm and the other coat is cool .
-one coat is weak and the other coat is strong .
-one coat is wide and the other coat is narrow .
-one coat is young and the other coat is old .
-one cup is bright and the other cup is dark .
+one cup is clean and the other cup is dirty .
 one cup is cold and the other cup is hot .
+one cup is dark and the other cup is bright .
 one cup is deep and the other cup is shallow .
-one cup is dirty and the other cup is clean .
-one cup is down and the other cup is up .
+one cup is dry and the other cup is wet .
 one cup is dull and the other cup is sharp .
-one cup is flat and the other cup is round .
+one cup is far and the other cup is near .
+one cup is fast and the other cup is slow .
 one cup is full and the other cup is empty .
-one cup is happy and the other cup is sad .
+one cup is hard and the other cup is soft .
+one cup is high and the other cup is low .
 one cup is late and the other cup is early .
-one cup is light and the other cup is heavy .
-one cup is loud and the other cup is silent .
+one cup is low and the other cup is high .
+one cup is narrow and the other cup is wide .
 one cup is near and the other cup is far .
 one cup is noisy and the other cup is quiet .
 one cup is old and the other cup is young .
-one cup is poor and the other cup is rich .
 one cup is quiet and the other cup is noisy .
+one cup is rich and the other cup is poor .
 one cup is round and the other cup is flat .
-one cup is sad and the other cup is happy .
+one cup is shallow and the other cup is deep .
 one cup is slow and the other cup is fast .
-one cup is smooth and the other cup is rough .
-one cup is soft and the other cup is hard .
 one cup is sweet and the other cup is sour .
-one cup is tall and the other cup is short .
-one cup is thick and the other cup is thin .
-one cup is up and the other cup is down .
+one cup is warm and the other cup is cool .
+one cup is wet and the other cup is dry .
 one cup is young and the other cup is old .
+one door is cold and the other door is hot .
+one door is cool and the other door is warm .
+one door is dark and the other door is bright .
+one door is dull and the other door is sharp .
+one door is flat and the other door is round .
+one door is late and the other door is early .
+one door is narrow and the other door is wide .
+one door is noisy and the other door is quiet .
+one door is rich and the other door is poor .
+one door is sad and the other door is happy .
+one door is sharp and the other door is dull .
+one door is small and the other door is big .
+one door is smooth and the other door is rough .
+one door is strong and the other door is weak .
+one door is up and the other door is down .
+one door is wet and the other door is dry .
+one door is young and the other door is old .
 one hill is big and the other hill is small .
 one hill is brief and the other hill is long .
-one hill is dull and the other hill is sharp .
-one hill is early and the other hill is late .
+one hill is bright and the other hill is dark .
+one hill is cool and the other hill is warm .
 one hill is empty and the other hill is full .
 one hill is far and the other hill is near .
 one hill is fast and the other hill is slow .
-one hill is happy and the other hill is sad .
-one hill is hot and the other hill is cold .
-one hill is late and the other hill is early .
+one hill is flat and the other hill is round .
+one hill is full and the other hill is empty .
+one hill is hard and the other hill is soft .
+one hill is high and the other hill is low .
+one hill is light and the other hill is heavy .
 one hill is narrow and the other hill is wide .
-one hill is old and the other hill is young .
-one hill is open and the other hill is closed .
+one hill is near and the other hill is far .
 one hill is quiet and the other hill is noisy .
-one hill is rough and the other hill is smooth .
-one hill is sad and the other hill is happy .
-one hill is sharp and the other hill is dull .
-one hill is smooth and the other hill is rough .
-one hill is sour and the other hill is sweet .
+one hill is small and the other hill is big .
 one hill is sweet and the other hill is sour .
+one hill is thick and the other hill is thin .
+one hill is up and the other hill is down .
 one hill is weak and the other hill is strong .
 one hill is wet and the other hill is dry .
-one hill is wide and the other hill is narrow .
-one hill is young and the other hill is old .
 one path is clean and the other path is dirty .
-one path is cool and the other path is warm .
+one path is dark and the other path is bright .
+one path is deep and the other path is shallow .
 one path is dirty and the other path is clean .
-one path is dull and the other path is sharp .
-one path is early and the other path is late .
+one path is dry and the other path is wet .
 one path is far and the other path is near .
-one path is hard and the other path is soft .
+one path is flat and the other path is round .
+one path is heavy and the other path is light .
 one path is light and the other path is heavy .
-one path is long and the other path is brief .
 one path is near and the other path is far .
-one path is rich and the other path is poor .
-one path is rough and the other path is smooth .
-one path is round and the other path is flat .
-one path is sharp and the other path is dull .
+one path is poor and the other path is rich .
+one path is shallow and the other path is deep .
 one path is silent and the other path is loud .
-one path is small and the other path is big .
-one path is sour and the other path is sweet .
-one path is sweet and the other path is sour .
-one path is thick and the other path is thin .
-one path is warm and the other path is cool .
+one path is soft and the other path is hard .
+one path is thin and the other path is thick .
+one path is up and the other path is down .
+one path is weak and the other path is strong .
 one path is wet and the other path is dry .
-one river is cool and the other river is warm .
-one river is dark and the other river is bright .
-one river is deep and the other river is shallow .
-one river is dry and the other river is wet .
+one path is young and the other path is old .
+one river is brief and the other river is long .
+one river is clean and the other river is dirty .
+one river is cold and the other river is hot .
+one river is down and the other river is up .
 one river is early and the other river is late .
-one river is fast and the other river is slow .
 one river is flat and the other river is round .
-one river is happy and the other river is sad .
-one river is hard and the other river is soft .
-one river is heavy and the other river is light .
-one river is high and the other river is low .
 one river is hot and the other river is cold .
+one river is light and the other river is heavy .
 one river is loud and the other river is silent .
 one river is low and the other river is high .
 one river is near and the other river is far .
-one river is poor and the other river is rich .
-one river is quiet and the other river is noisy .
+one river is old and the other river is young .
 one river is rough and the other river is smooth .
 one river is round and the other river is flat .
 one river is shallow and the other river is deep .
-one river is sharp and the other river is dull .
-one river is silent and the other river is loud .
-one river is smooth and the other river is rough .
 one river is soft and the other river is hard .
-one river is thick and the other river is thin .
-one river is up and the other river is down .
-one river is weak and the other river is strong .
-one river is wet and the other river is dry .
+one river is sour and the other river is sweet .
+one river is warm and the other river is cool .
+one river is wide and the other river is narrow .
 one room is big and the other room is small .
-one room is cold and the other room is hot .
-one room is deep and the other room is shallow .
+one room is cool and the other room is warm .
+one room is dirty and the other room is clean .
 one room is down and the other room is up .
 one room is dry and the other room is wet .
 one room is empty and the other room is full .
-one room is fast and the other room is slow .
-one room is flat and the other room is round .
 one room is full and the other room is empty .
-one room is hard and the other room is soft .
+one room is high and the other room is low .
+one room is hot and the other room is cold .
 one room is long and the other room is brief .
-one room is noisy and the other room is quiet .
+one room is low and the other room is high .
 one room is old and the other room is young .
 one room is poor and the other room is rich .
-one room is rich and the other room is poor .
-one room is shallow and the other room is deep .
+one room is quiet and the other room is noisy .
 one room is sharp and the other room is dull .
-one room is short and the other room is tall .
 one room is silent and the other room is loud .
-one room is slow and the other room is fast .
 one room is small and the other room is big .
-one room is sour and the other room is sweet .
+one room is smooth and the other room is rough .
 one room is strong and the other room is weak .
-one room is thin and the other room is thick .
-one room is wide and the other room is narrow .
-one sky is brief and the other sky is long .
-one sky is clean and the other sky is dirty .
-one sky is closed and the other sky is open .
-one sky is deep and the other sky is shallow .
+one room is tall and the other room is short .
+one room is thick and the other room is thin .
+one sky is big and the other sky is small .
+one sky is bright and the other sky is dark .
+one sky is cool and the other sky is warm .
 one sky is dirty and the other sky is clean .
-one sky is down and the other sky is up .
-one sky is dry and the other sky is wet .
+one sky is early and the other sky is late .
 one sky is empty and the other sky is full .
-one sky is fast and the other sky is slow .
-one sky is heavy and the other sky is light .
-one sky is high and the other sky is low .
-one sky is light and the other sky is heavy .
-one sky is low and the other sky is high .
+one sky is late and the other sky is early .
 one sky is noisy and the other sky is quiet .
-one sky is open and the other sky is closed .
-one sky is quiet and the other sky is noisy .
-one sky is rich and the other sky is poor .
 one sky is rough and the other sky is smooth .
-one sky is small and the other sky is big .
+one sky is slow and the other sky is fast .
+one sky is strong and the other sky is weak .
 one sky is sweet and the other sky is sour .
-one sky is thin and the other sky is thick .
-one sky is up and the other sky is down .
-one sky is warm and the other sky is cool .
+one sky is tall and the other sky is short .
 one sky is wide and the other sky is narrow .
-one street is cold and the other street is hot .
-one street is cool and the other street is warm .
-one street is dirty and the other street is clean .
+one sky is young and the other sky is old .
+one street is bright and the other street is dark .
+one street is clean and the other street is dirty .
+one street is dark and the other street is bright .
+one street is deep and the other street is shallow .
 one street is early and the other street is late .
-one street is far and the other street is near .
-one street is heavy and the other street is light .
+one street is happy and the other street is sad .
 one street is high and the other street is low .
 one street is hot and the other street is cold .
+one street is long and the other street is brief .
 one street is loud and the other street is silent .
 one street is narrow and the other street is wide .
-one street is near and the other street is far .
-one street is rich and the other street is poor .
-one street is sad and the other street is happy .
+one street is old and the other street is young .
+one street is rough and the other street is smooth .
 one street is short and the other street is tall .
-one street is small and the other street is big .
-one street is soft and the other street is hard .
-one street is strong and the other street is weak .
+one street is silent and the other street is loud .
+one street is slow and the other street is fast .
+one street is smooth and the other street is rough .
+one street is sour and the other street is sweet .
 one street is tall and the other street is short .
-one street is up and the other street is down .
+one street is thick and the other street is thin .
 one street is weak and the other street is strong .
-one street is young and the other street is old .
-one voice is big and the other voice is small .
-one voice is brief and the other voice is long .
 one voice is bright and the other voice is dark .
-one voice is clean and the other voice is dirty .
-one voice is closed and the other voice is open .
-one voice is dark and the other voice is bright .
-one voice is dry and the other voice is wet .
+one voice is down and the other voice is up .
 one voice is full and the other voice is empty .
 one voice is happy and the other voice is sad .
-one voice is hard and the other voice is soft .
-one voice is high and the other voice is low .
+one voice is heavy and the other voice is light .
 one voice is hot and the other voice is cold .
 one voice is long and the other voice is brief .
-one voice is noisy and the other voice is quiet .
-one voice is old and the other voice is young .
-one voice is open and the other voice is closed .
-one voice is soft and the other voice is hard .
-one voice is strong and the other voice is weak .
-one voice is tall and the other voice is short .
-one voice is thick and the other voice is thin .
+one voice is loud and the other voice is silent .
+one voice is poor and the other voice is rich .
+one voice is quiet and the other voice is noisy .
+one voice is rich and the other voice is poor .
+one voice is sad and the other voice is happy .
+one voice is short and the other voice is tall .
+one voice is silent and the other voice is loud .
+one voice is small and the other voice is big .
+one voice is sweet and the other voice is sour .
 one voice is thin and the other voice is thick .
-one voice is warm and the other voice is cool .
+one voice is wide and the other voice is narrow .
 open and closed are opposites .
 open is the opposite of closed .
-open means not closed .
 poor and rich are opposites .
 poor is the opposite of rich .
 poor means not rich .
 quiet and noisy are opposites .
-quiet is the opposite of noisy .
 quiet means not noisy .
 rich and poor are opposites .
 rich is the opposite of poor .
@@ -454,111 +436,130 @@ sweet means not sour .
 tall and short are opposites .
 tall is the opposite of short .
 tall means not short .
-the bag was bright but now it is dark .
-the bag was closed but now it is open .
-the bag was dark but now it is bright .
+the bag was deep but now it is shallow .
+the bag was dirty but now it is clean .
 the bag was down but now it is up .
+the bag was dry but now it is wet .
 the bag was dull but now it is sharp .
-the bag was far but now it is near .
-the bag was flat but now it is round .
-the bag was heavy but now it is light .
+the bag was early but now it is late .
+the bag was fast but now it is slow .
+the bag was happy but now it is sad .
+the bag was hard but now it is soft .
 the bag was late but now it is early .
-the bag was light but now it is heavy .
-the bag was low but now it is high .
-the bag was narrow but now it is wide .
-the bag was round but now it is flat .
+the bag was long but now it is brief .
+the bag was sad but now it is happy .
 the bag was shallow but now it is deep .
 the bag was short but now it is tall .
-the bag was slow but now it is fast .
-the bag was smooth but now it is rough .
 the bag was sour but now it is sweet .
-the bag was strong but now it is weak .
-the bag was tall but now it is short .
-the bag was wet but now it is dry .
-the coat was big but now it is small .
+the bag was up but now it is down .
+the bag was weak but now it is strong .
+the box was big but now it is small .
+the box was brief but now it is long .
+the box was dull but now it is sharp .
+the box was far but now it is near .
+the box was hard but now it is soft .
+the box was heavy but now it is light .
+the box was light but now it is heavy .
+the box was poor but now it is rich .
+the box was rich but now it is poor .
+the box was round but now it is flat .
+the box was sharp but now it is dull .
+the box was slow but now it is fast .
+the box was soft but now it is hard .
+the box was sour but now it is sweet .
+the box was strong but now it is weak .
+the box was thin but now it is thick .
+the box was warm but now it is cool .
+the box was wide but now it is narrow .
 the coat was brief but now it is long .
-the coat was bright but now it is dark .
-the coat was clean but now it is dirty .
-the coat was closed but now it is open .
 the coat was cold but now it is hot .
-the coat was cool but now it is warm .
-the coat was dark but now it is bright .
 the coat was empty but now it is full .
-the coat was full but now it is empty .
-the coat was late but now it is early .
-the coat was long but now it is brief .
+the coat was fast but now it is slow .
+the coat was happy but now it is sad .
+the coat was heavy but now it is light .
 the coat was loud but now it is silent .
 the coat was low but now it is high .
-the coat was narrow but now it is wide .
-the coat was open but now it is closed .
-the coat was poor but now it is rich .
+the coat was noisy but now it is quiet .
+the coat was rough but now it is smooth .
+the coat was round but now it is flat .
 the coat was sad but now it is happy .
-the coat was shallow but now it is deep .
+the coat was sharp but now it is dull .
 the coat was short but now it is tall .
-the coat was silent but now it is loud .
-the coat was slow but now it is fast .
+the coat was smooth but now it is rough .
+the coat was soft but now it is hard .
+the coat was tall but now it is short .
+the coat was thick but now it is thin .
 the coat was thin but now it is thick .
 the coat was warm but now it is cool .
-the coat was weak but now it is strong .
-the coat was wide but now it is narrow .
-the coat was young but now it is old .
-the cup was bright but now it is dark .
+the cup was clean but now it is dirty .
 the cup was cold but now it is hot .
+the cup was dark but now it is bright .
 the cup was deep but now it is shallow .
-the cup was dirty but now it is clean .
-the cup was down but now it is up .
+the cup was dry but now it is wet .
 the cup was dull but now it is sharp .
-the cup was flat but now it is round .
+the cup was far but now it is near .
+the cup was fast but now it is slow .
 the cup was full but now it is empty .
-the cup was happy but now it is sad .
+the cup was hard but now it is soft .
+the cup was high but now it is low .
 the cup was late but now it is early .
-the cup was light but now it is heavy .
-the cup was loud but now it is silent .
+the cup was low but now it is high .
+the cup was narrow but now it is wide .
 the cup was near but now it is far .
 the cup was noisy but now it is quiet .
 the cup was old but now it is young .
-the cup was poor but now it is rich .
 the cup was quiet but now it is noisy .
+the cup was rich but now it is poor .
 the cup was round but now it is flat .
-the cup was sad but now it is happy .
+the cup was shallow but now it is deep .
 the cup was slow but now it is fast .
-the cup was smooth but now it is rough .
-the cup was soft but now it is hard .
 the cup was sweet but now it is sour .
-the cup was tall but now it is short .
-the cup was thick but now it is thin .
-the cup was up but now it is down .
+the cup was warm but now it is cool .
+the cup was wet but now it is dry .
 the cup was young but now it is old .
+the door was cold but now it is hot .
+the door was cool but now it is warm .
+the door was dark but now it is bright .
+the door was dull but now it is sharp .
+the door was flat but now it is round .
+the door was late but now it is early .
+the door was narrow but now it is wide .
+the door was noisy but now it is quiet .
+the door was rich but now it is poor .
+the door was sad but now it is happy .
+the door was sharp but now it is dull .
+the door was small but now it is big .
+the door was smooth but now it is rough .
+the door was strong but now it is weak .
+the door was up but now it is down .
+the door was wet but now it is dry .
+the door was young but now it is old .
 the hill was big but now it is small .
 the hill was brief but now it is long .
-the hill was dull but now it is sharp .
-the hill was early but now it is late .
+the hill was bright but now it is dark .
+the hill was cool but now it is warm .
 the hill was empty but now it is full .
 the hill was far but now it is near .
 the hill was fast but now it is slow .
-the hill was happy but now it is sad .
-the hill was hot but now it is cold .
-the hill was late but now it is early .
+the hill was flat but now it is round .
+the hill was full but now it is empty .
+the hill was hard but now it is soft .
+the hill was high but now it is low .
+the hill was light but now it is heavy .
 the hill was narrow but now it is wide .
-the hill was old but now it is young .
-the hill was open but now it is closed .
+the hill was near but now it is far .
 the hill was quiet but now it is noisy .
-the hill was rough but now it is smooth .
-the hill was sad but now it is happy .
-the hill was sharp but now it is dull .
-the hill was smooth but now it is rough .
-the hill was sour but now it is sweet .
+the hill was small but now it is big .
 the hill was sweet but now it is sour .
+the hill was thick but now it is thin .
+the hill was up but now it is down .
 the hill was weak but now it is strong .
 the hill was wet but now it is dry .
-the hill was wide but now it is narrow .
-the hill was young but now it is old .
 the opposite of big is small .
 the opposite of brief is long .
 the opposite of bright is dark .
 the opposite of clean is dirty .
 the opposite of closed is open .
-the opposite of cold is hot .
 the opposite of cool is warm .
 the opposite of dark is bright .
 the opposite of deep is shallow .
@@ -570,7 +571,6 @@ the opposite of early is late .
 the opposite of far is near .
 the opposite of fast is slow .
 the opposite of flat is round .
-the opposite of full is empty .
 the opposite of happy is sad .
 the opposite of hard is soft .
 the opposite of heavy is light .
@@ -585,7 +585,6 @@ the opposite of near is far .
 the opposite of old is young .
 the opposite of open is closed .
 the opposite of poor is rich .
-the opposite of quiet is noisy .
 the opposite of rich is poor .
 the opposite of rough is smooth .
 the opposite of round is flat .
@@ -611,146 +610,118 @@ the opposite of wet is dry .
 the opposite of wide is narrow .
 the opposite of young is old .
 the path was clean but now it is dirty .
-the path was cool but now it is warm .
+the path was dark but now it is bright .
+the path was deep but now it is shallow .
 the path was dirty but now it is clean .
-the path was dull but now it is sharp .
-the path was early but now it is late .
+the path was dry but now it is wet .
 the path was far but now it is near .
-the path was hard but now it is soft .
+the path was flat but now it is round .
+the path was heavy but now it is light .
 the path was light but now it is heavy .
-the path was long but now it is brief .
 the path was near but now it is far .
-the path was rich but now it is poor .
-the path was rough but now it is smooth .
-the path was round but now it is flat .
-the path was sharp but now it is dull .
+the path was poor but now it is rich .
+the path was shallow but now it is deep .
 the path was silent but now it is loud .
-the path was small but now it is big .
-the path was sour but now it is sweet .
-the path was sweet but now it is sour .
-the path was thick but now it is thin .
-the path was warm but now it is cool .
+the path was soft but now it is hard .
+the path was thin but now it is thick .
+the path was up but now it is down .
+the path was weak but now it is strong .
 the path was wet but now it is dry .
-the river was cool but now it is warm .
-the river was dark but now it is bright .
-the river was deep but now it is shallow .
-the river was dry but now it is wet .
+the path was young but now it is old .
+the river was brief but now it is long .
+the river was clean but now it is dirty .
+the river was cold but now it is hot .
+the river was down but now it is up .
 the river was early but now it is late .
-the river was fast but now it is slow .
 the river was flat but now it is round .
-the river was happy but now it is sad .
-the river was hard but now it is soft .
-the river was heavy but now it is light .
-the river was high but now it is low .
 the river was hot but now it is cold .
+the river was light but now it is heavy .
 the river was loud but now it is silent .
 the river was low but now it is high .
 the river was near but now it is far .
-the river was poor but now it is rich .
-the river was quiet but now it is noisy .
+the river was old but now it is young .
 the river was rough but now it is smooth .
 the river was round but now it is flat .
 the river was shallow but now it is deep .
-the river was sharp but now it is dull .
-the river was silent but now it is loud .
-the river was smooth but now it is rough .
 the river was soft but now it is hard .
-the river was thick but now it is thin .
-the river was up but now it is down .
-the river was weak but now it is strong .
-the river was wet but now it is dry .
+the river was sour but now it is sweet .
+the river was warm but now it is cool .
+the river was wide but now it is narrow .
 the room was big but now it is small .
-the room was cold but now it is hot .
-the room was deep but now it is shallow .
+the room was cool but now it is warm .
+the room was dirty but now it is clean .
 the room was down but now it is up .
 the room was dry but now it is wet .
 the room was empty but now it is full .
-the room was fast but now it is slow .
-the room was flat but now it is round .
 the room was full but now it is empty .
-the room was hard but now it is soft .
+the room was high but now it is low .
+the room was hot but now it is cold .
 the room was long but now it is brief .
-the room was noisy but now it is quiet .
+the room was low but now it is high .
 the room was old but now it is young .
 the room was poor but now it is rich .
-the room was rich but now it is poor .
-the room was shallow but now it is deep .
+the room was quiet but now it is noisy .
 the room was sharp but now it is dull .
-the room was short but now it is tall .
 the room was silent but now it is loud .
-the room was slow but now it is fast .
 the room was small but now it is big .
-the room was sour but now it is sweet .
+the room was smooth but now it is rough .
 the room was strong but now it is weak .
-the room was thin but now it is thick .
-the room was wide but now it is narrow .
-the sky was brief but now it is long .
-the sky was clean but now it is dirty .
-the sky was closed but now it is open .
-the sky was deep but now it is shallow .
+the room was tall but now it is short .
+the room was thick but now it is thin .
+the sky was big but now it is small .
+the sky was bright but now it is dark .
+the sky was cool but now it is warm .
 the sky was dirty but now it is clean .
-the sky was down but now it is up .
-the sky was dry but now it is wet .
+the sky was early but now it is late .
 the sky was empty but now it is full .
-the sky was fast but now it is slow .
-the sky was heavy but now it is light .
-the sky was high but now it is low .
-the sky was light but now it is heavy .
-the sky was low but now it is high .
+the sky was late but now it is early .
 the sky was noisy but now it is quiet .
-the sky was open but now it is closed .
-the sky was quiet but now it is noisy .
-the sky was rich but now it is poor .
 the sky was rough but now it is smooth .
-the sky was small but now it is big .
+the sky was slow but now it is fast .
+the sky was strong but now it is weak .
 the sky was sweet but now it is sour .
-the sky was thin but now it is thick .
-the sky was up but now it is down .
-the sky was warm but now it is cool .
+the sky was tall but now it is short .
 the sky was wide but now it is narrow .
-the street was cold but now it is hot .
-the street was cool but now it is warm .
-the street was dirty but now it is clean .
+the sky was young but now it is old .
+the street was bright but now it is dark .
+the street was clean but now it is dirty .
+the street was dark but now it is bright .
+the street was deep but now it is shallow .
 the street was early but now it is late .
-the street was far but now it is near .
-the street was heavy but now it is light .
+the street was happy but now it is sad .
 the street was high but now it is low .
 the street was hot but now it is cold .
+the street was long but now it is brief .
 the street was loud but now it is silent .
 the street was narrow but now it is wide .
-the street was near but now it is far .
-the street was rich but now it is poor .
-the street was sad but now it is happy .
+the street was old but now it is young .
+the street was rough but now it is smooth .
 the street was short but now it is tall .
-the street was small but now it is big .
-the street was soft but now it is hard .
-the street was strong but now it is weak .
+the street was silent but now it is loud .
+the street was slow but now it is fast .
+the street was smooth but now it is rough .
+the street was sour but now it is sweet .
 the street was tall but now it is short .
-the street was up but now it is down .
+the street was thick but now it is thin .
 the street was weak but now it is strong .
-the street was young but now it is old .
-the voice was big but now it is small .
-the voice was brief but now it is long .
 the voice was bright but now it is dark .
-the voice was clean but now it is dirty .
-the voice was closed but now it is open .
-the voice was dark but now it is bright .
-the voice was dry but now it is wet .
+the voice was down but now it is up .
 the voice was full but now it is empty .
 the voice was happy but now it is sad .
-the voice was hard but now it is soft .
-the voice was high but now it is low .
+the voice was heavy but now it is light .
 the voice was hot but now it is cold .
 the voice was long but now it is brief .
-the voice was noisy but now it is quiet .
-the voice was old but now it is young .
-the voice was open but now it is closed .
-the voice was soft but now it is hard .
-the voice was strong but now it is weak .
-the voice was tall but now it is short .
-the voice was thick but now it is thin .
+the voice was loud but now it is silent .
+the voice was poor but now it is rich .
+the voice was quiet but now it is noisy .
+the voice was rich but now it is poor .
+the voice was sad but now it is happy .
+the voice was short but now it is tall .
+the voice was silent but now it is loud .
+the voice was small but now it is big .
+the voice was sweet but now it is sour .
 the voice was thin but now it is thick .
-the voice was warm but now it is cool .
+the voice was wide but now it is narrow .
 thick and thin are opposites .
 thick is the opposite of thin .
 thick means not thin .
@@ -767,7 +738,6 @@ we say big when we do not mean small .
 we say brief when we do not mean long .
 we say bright when we do not mean dark .
 we say clean when we do not mean dirty .
-we say closed when we do not mean open .
 we say cold when we do not mean hot .
 we say cool when we do not mean warm .
 we say dark when we do not mean bright .
@@ -796,7 +766,6 @@ we say narrow when we do not mean wide .
 we say near when we do not mean far .
 we say noisy when we do not mean quiet .
 we say old when we do not mean young .
-we say open when we do not mean closed .
 we say poor when we do not mean rich .
 we say quiet when we do not mean noisy .
 we say rich when we do not mean poor .

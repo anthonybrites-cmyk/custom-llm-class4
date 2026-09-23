@@ -2,7 +2,7 @@
   "untrained": {
     "suite_id": "synthetic-language-v1",
     "suite_sha256": "1d7c503f34d88260d0ac897bc36b8ba621cccc1950aef47e7121e69b2c1c9e1d",
-    "model_sha256": "af3bae055a988ad590f66d0cc18134dedcaf1c6f37be36599809578a6d09adae",
+    "model_sha256": "77b9f761758706f62f1daa8df7c559247d5d76f78ae04e9f11df8c8b1e1522f4",
     "stage": "untrained",
     "settings": {
       "seed": 2026,
@@ -13,62 +13,62 @@
     "generation_note": "Generated text is saved for inspection and is not the multiple-choice score.",
     "missing_note": "Unknown-word and overlong cases get zero in all-case success, not guessed UNK credit.",
     "overall": {
-      "correct": 10,
+      "correct": 7,
       "total": 48,
       "scorable": 33,
-      "success_rate_all_cases": 0.20833333333333334,
-      "accuracy_scorable_cases": 0.30303030303030304,
+      "success_rate_all_cases": 0.14583333333333334,
+      "accuracy_scorable_cases": 0.21212121212121213,
       "coverage": 0.6875
     },
     "by_group": {
       "extend_corpus": {
-        "correct": 3,
+        "correct": 1,
         "total": 24,
         "scorable": 9,
-        "success_rate_all_cases": 0.125,
-        "accuracy_scorable_cases": 0.3333333333333333,
+        "success_rate_all_cases": 0.041666666666666664,
+        "accuracy_scorable_cases": 0.1111111111111111,
         "coverage": 0.375
       },
       "starter_patterns": {
-        "correct": 5,
+        "correct": 3,
         "total": 16,
         "scorable": 16,
-        "success_rate_all_cases": 0.3125,
-        "accuracy_scorable_cases": 0.3125,
+        "success_rate_all_cases": 0.1875,
+        "accuracy_scorable_cases": 0.1875,
         "coverage": 1.0
       },
       "starter_transfer": {
-        "correct": 2,
+        "correct": 3,
         "total": 8,
         "scorable": 8,
-        "success_rate_all_cases": 0.25,
-        "accuracy_scorable_cases": 0.25,
+        "success_rate_all_cases": 0.375,
+        "accuracy_scorable_cases": 0.375,
         "coverage": 1.0
       }
     },
     "by_category": {
       "categories_and_analogies": {
-        "correct": 1,
+        "correct": 0,
         "total": 3,
         "scorable": 3,
-        "success_rate_all_cases": 0.3333333333333333,
-        "accuracy_scorable_cases": 0.3333333333333333,
-        "coverage": 1.0
-      },
-      "domain_context": {
-        "correct": 0,
-        "total": 8,
-        "scorable": 8,
         "success_rate_all_cases": 0.0,
         "accuracy_scorable_cases": 0.0,
         "coverage": 1.0
       },
-      "domain_place": {
-        "correct": 5,
+      "domain_context": {
+        "correct": 1,
         "total": 8,
         "scorable": 8,
-        "success_rate_all_cases": 0.625,
-        "accuracy_scorable_cases": 0.625,
+        "success_rate_all_cases": 0.125,
+        "accuracy_scorable_cases": 0.125,
+        "coverage": 1.0
+      },
+      "domain_place": {
+        "correct": 2,
+        "total": 8,
+        "scorable": 8,
+        "success_rate_all_cases": 0.25,
+        "accuracy_scorable_cases": 0.25,
         "coverage": 1.0
       },
       "everyday_knowledge": {
@@ -96,19 +96,19 @@
         "coverage": 1.0
       },
       "new_wording": {
-        "correct": 2,
+        "correct": 3,
         "total": 8,
         "scorable": 8,
-        "success_rate_all_cases": 0.25,
-        "accuracy_scorable_cases": 0.25,
+        "success_rate_all_cases": 0.375,
+        "accuracy_scorable_cases": 0.375,
         "coverage": 1.0
       },
       "opposites": {
-        "correct": 2,
+        "correct": 1,
         "total": 3,
         "scorable": 3,
-        "success_rate_all_cases": 0.6666666666666666,
-        "accuracy_scorable_cases": 0.6666666666666666,
+        "success_rate_all_cases": 0.3333333333333333,
+        "accuracy_scorable_cases": 0.3333333333333333,
         "coverage": 1.0
       },
       "reference": {
@@ -140,7 +140,7 @@
   "final": {
     "suite_id": "synthetic-language-v1",
     "suite_sha256": "1d7c503f34d88260d0ac897bc36b8ba621cccc1950aef47e7121e69b2c1c9e1d",
-    "model_sha256": "8d9edf2618e37d4724b6ac5af3d39cc39a3c97804c32c941e3e83541609c335d",
+    "model_sha256": "88237999e17b277a9caeea686e78d2b38421668d0c38a272d54528a5822a8412",
     "stage": "final",
     "settings": {
       "seed": 2026,
@@ -151,20 +151,20 @@
     "generation_note": "Generated text is saved for inspection and is not the multiple-choice score.",
     "missing_note": "Unknown-word and overlong cases get zero in all-case success, not guessed UNK credit.",
     "overall": {
-      "correct": 27,
+      "correct": 28,
       "total": 48,
       "scorable": 33,
-      "success_rate_all_cases": 0.5625,
-      "accuracy_scorable_cases": 0.8181818181818182,
+      "success_rate_all_cases": 0.5833333333333334,
+      "accuracy_scorable_cases": 0.8484848484848485,
       "coverage": 0.6875
     },
     "by_group": {
       "extend_corpus": {
-        "correct": 6,
+        "correct": 5,
         "total": 24,
         "scorable": 9,
-        "success_rate_all_cases": 0.25,
-        "accuracy_scorable_cases": 0.6666666666666666,
+        "success_rate_all_cases": 0.20833333333333334,
+        "accuracy_scorable_cases": 0.5555555555555556,
         "coverage": 0.375
       },
       "starter_patterns": {
@@ -176,11 +176,11 @@
         "coverage": 1.0
       },
       "starter_transfer": {
-        "correct": 5,
+        "correct": 7,
         "total": 8,
         "scorable": 8,
-        "success_rate_all_cases": 0.625,
-        "accuracy_scorable_cases": 0.625,
+        "success_rate_all_cases": 0.875,
+        "accuracy_scorable_cases": 0.875,
         "coverage": 1.0
       }
     },
@@ -226,19 +226,19 @@
         "coverage": 0.0
       },
       "negation": {
-        "correct": 1,
+        "correct": 0,
         "total": 3,
         "scorable": 3,
-        "success_rate_all_cases": 0.3333333333333333,
-        "accuracy_scorable_cases": 0.3333333333333333,
+        "success_rate_all_cases": 0.0,
+        "accuracy_scorable_cases": 0.0,
         "coverage": 1.0
       },
       "new_wording": {
-        "correct": 5,
+        "correct": 7,
         "total": 8,
         "scorable": 8,
-        "success_rate_all_cases": 0.625,
-        "accuracy_scorable_cases": 0.625,
+        "success_rate_all_cases": 0.875,
+        "accuracy_scorable_cases": 0.875,
         "coverage": 1.0
       },
       "opposites": {

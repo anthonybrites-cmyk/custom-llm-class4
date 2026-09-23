@@ -2,41 +2,41 @@
   "files": [
     {
       "file": "extension/categories.txt",
-      "bytes": 34676,
-      "sha256": "a947bacdd51ea9d622cdc361dce85353e18a8e5fad4a156b8b7f6b5dc291dc95",
+      "bytes": 33227,
+      "sha256": "adeff46ce900b7812863f0f20c247f41b603ba15d2c34dd8b55961758a0a12bf",
       "warnings": [],
-      "characters": 34676,
-      "passages": 887,
-      "unique_passages": 887,
-      "preview": "a banana is a fruit .\na banana is a fruit .a bear is an animal .\na banana is a fruit .a birch is a tree .\na banana is a fruit .a cod is a fish .\na banana is a fruit .a herring is a fish .\na banana is a fruit .a linen is a fabric .\na banana is a fruit .a parrot is a bird .\na banana is a fruit .a spar"
+      "characters": 33227,
+      "passages": 857,
+      "unique_passages": 857,
+      "preview": "a banana is a fruit .\na banana is a fruit .a bear is an animal .\na banana is a fruit .a birch is a tree .\na banana is a fruit .a cod is a fish .\na banana is a fruit .a herring is a fish .\na banana is a fruit .a parrot is a bird .\na banana is a fruit .a sparrow is a bird .\na banana is a fruit .a spin"
     },
     {
       "file": "extension/negation.txt",
-      "bytes": 80059,
-      "sha256": "23f4b183106f6f1b09cd769fab3fed20992efd08333611881a48258b99c15db5",
+      "bytes": 69209,
+      "sha256": "01d3749e609d787a5e0d144cbf9203f953150a9d9e2f6650899e931f6d6bfcea",
       "warnings": [],
-      "characters": 80059,
-      "passages": 1573,
-      "unique_passages": 1573,
-      "preview": "ava did not choose coffee , she chose honey instead .\nava did not choose coffee .she chose honey .ava chose honey .\nava did not choose honey , she chose cheese instead .\nava did not choose honey .she chose cheese .ava chose cheese .\nava did not drink fish , she drank cake instead .\nava did not drink"
+      "characters": 69209,
+      "passages": 1453,
+      "unique_passages": 1453,
+      "preview": "ava ate cheese .\nava ate coffee .\nava chose cheese .\nava chose juice .\nava drank butter .\nava drank coffee .\nava ordered butter .\nava ordered fish .\nava picked bread .\nava picked fish .\nava took coffee .\nava wanted juice .\nava wanted rice .\nben ate bread .\nben ate coffee .\nben bought water .\nben cho"
     },
     {
       "file": "extension/opposites.txt",
-      "bytes": 32349,
-      "sha256": "9aa012fd74b2da182eab8cbe44f094f69ddc4f598a43e708efb69a4fbad02688",
+      "bytes": 31095,
+      "sha256": "bdece97a144730c66a8b9e11a89b55d55600624a6e5b70853537c57c83faa664",
       "warnings": [],
-      "characters": 32349,
-      "passages": 837,
-      "unique_passages": 837,
+      "characters": 31095,
+      "passages": 806,
+      "unique_passages": 806,
       "preview": "big and small are opposites .\nbig is the opposite of small .\nbig means not small .\nbrief and long are opposites .\nbrief is the opposite of long .\nbrief means not long .\nbright and dark are opposites .\nbright is the opposite of dark .\nbright means not dark .\nclean and dirty are opposites .\nclean is t"
     }
   ],
   "ignored": [],
-  "external_passages": 3297,
+  "external_passages": 3116,
   "mode": "classroom",
   "base_passages": 6200,
-  "unique_passages": 7889,
-  "new_unique_passages": 3297,
+  "unique_passages": 7708,
+  "new_unique_passages": 3116,
   "duplicates_removed": 1608,
   "max_passage_tokens": 47,
   "split_unit": "deduplicated passage, not source file"
